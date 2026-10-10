@@ -1,0 +1,618 @@
+[
+  {
+    "id": "a2z",
+    "name": "에이투지체",
+    "family": "a2z",
+    "category": "sans-serif",
+    "version": "1.001",
+    "type": "self-hosted",
+    "author": "freesentation",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/a2z/a2z.css",
+    "homepage": "https://freesentation.blog/a2z",
+    "description": "다양한 두께를 지원하는 무료 제목/본문용 서체"
+  },
+  {
+    "id": "bm-fonts",
+    "name": "배달의민족 서체 패키지",
+    "family": "bmdohyeon",
+    "category": "display",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "우아한형제들",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bm-fonts.css",
+    "homepage": "https://www.woowahan.com/fonts",
+    "description": "우아한형제들의 배달의민족 브랜드 무료 글꼴 모음 (도현, 을지로, 한나, 주아, 연성 등)"
+  },
+  {
+    "id": "freesentation",
+    "name": "프리젠테이션",
+    "family": "freesentation",
+    "category": "sans-serif",
+    "version": "1.3.9",
+    "type": "self-hosted",
+    "author": "freesentation",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/freesentation/freesentation.css",
+    "homepage": "https://freesentation.blog/freesentation",
+    "description": "프리젠테이션 문서 및 발표용 무료 한글 폰트"
+  },
+  {
+    "id": "gmarketsans",
+    "name": "Gmarket Sans",
+    "family": "gmarketsans",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "Gmarket",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      300,
+      500,
+      700
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gmarketsans/gmarketsans.css",
+    "homepage": "https://corp.gmarket.com/fonts/",
+    "description": "다양한 매체에서 직관적인 인상을 주는 Gmarket 전용 서체"
+  },
+  {
+    "id": "gwpoof",
+    "name": "강원교육 모두체",
+    "family": "gwpoof",
+    "category": "display",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "강원도교육청",
+    "license": "공공누리 제1유형",
+    "weights": [
+      300,
+      400,
+      700
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof.css",
+    "homepage": "https://www.gwe.go.kr",
+    "description": "강원도교육청에서 개발 및 배포하는 공공 무료 서체"
+  },
+  {
+    "id": "heungkuklife",
+    "name": "흥국생명 마음글씨체",
+    "family": "jeonhwaseon",
+    "category": "handwriting",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "흥국생명",
+    "license": "무료 상업용 라이선스",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/heungkuklife/heungkuklife.css",
+    "homepage": "https://www.heungkuklife.co.kr",
+    "description": "흥국생명 마음글씨 공모전 당선 손글씨 서체 모음 (이서윤체, 전화선체, 심경하체)"
+  },
+  {
+    "id": "jalnan2",
+    "name": "야놀자 야잘난체 2",
+    "family": "jalnan2",
+    "category": "display",
+    "version": "2.0.0",
+    "type": "self-hosted",
+    "author": "야놀자",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/jalnan2/jalnan2.css",
+    "homepage": "https://yanolja.in/brand/jalnan",
+    "description": "즐거운 여행의 감성을 담은 야놀자 브랜드 대표 서체 2세대"
+  },
+  {
+    "id": "jalnangothic",
+    "name": "야놀자 잘난체 고딕",
+    "family": "jalnangothic",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "야놀자",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/jalnangothic/jalnangothic.css",
+    "homepage": "https://yanolja.in/brand/jalnan",
+    "description": "야놀자 잘난체의 개성을 살리면서 본문 가독성을 높인 고딕 서체"
+  },
+  {
+    "id": "maruburiotf",
+    "name": "마루 부리",
+    "family": "maruburi",
+    "category": "serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      200,
+      300,
+      400,
+      600,
+      700
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/maruburiotf/maruburiotf.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "화면용 명조체의 새로운 기준을 제시하는 네이버 마루 부리 글꼴"
+  },
+  {
+    "id": "nanumbarungothic-yethangul",
+    "name": "나눔바른고딕 옛한글",
+    "family": "nanumbarungothic",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      300
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumbarungothic-yethangul/nanumbarungothic-yethangul.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "옛한글 문헌 표기를 완벽히 지원하는 나눔바른고딕 서체"
+  },
+  {
+    "id": "nanumbrush",
+    "name": "나눔손글씨 붓",
+    "family": "nanumbrush",
+    "category": "handwriting",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumbrush/nanumbrush.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "붓으로 직접 쓴 듯한 자연스러운 멋을 살린 나눔손글씨 붓체"
+  },
+  {
+    "id": "nanumfont-barungothic",
+    "name": "나눔바른고딕",
+    "family": "nanumbarungothic",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      200,
+      300,
+      400,
+      700
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_barungothic/nanumfont_barungothic.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "모바일과 디지털 디스플레이에 최적화된 바르고 깔끔한 본문용 고딕"
+  },
+  {
+    "id": "nanumfont-barunpen",
+    "name": "나눔바른펜",
+    "family": "nanumbarunpen",
+    "category": "handwriting",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400,
+      700
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_barunpen/nanumfont_barunpen.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "반듯하고 단정한 손글씨 느낌을 주는 나눔바른펜 서체"
+  },
+  {
+    "id": "nanumfont-gothic",
+    "name": "나눔고딕",
+    "family": "nanumgothic",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      300,
+      400,
+      700,
+      800
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_gothic/nanumfont_gothic.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "네이버의 대표적인 디지털 화면용 한글 고딕 글꼴"
+  },
+  {
+    "id": "nanumfont-gothiceco",
+    "name": "나눔고딕 에코",
+    "family": "nanumgothiceco",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400,
+      700,
+      800
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_gothiceco/nanumfont_gothiceco.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "인쇄 시 잉크를 절약할 수 있도록 미세 구멍을 적용한 친환경 글꼴"
+  },
+  {
+    "id": "nanumfont-myungjoeco",
+    "name": "나눔명조 에코",
+    "family": "nanummyeongjoeco",
+    "category": "serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400,
+      700,
+      800
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_myungjoeco/nanumfont_myungjoeco.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "인쇄 시 잉크를 절약할 수 있도록 제작된 친환경 나눔명조 글꼴"
+  },
+  {
+    "id": "nanumfont-otf-myungjo",
+    "name": "나눔명조",
+    "family": "nanummyeongjo",
+    "category": "serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400,
+      700,
+      800
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_otf_myungjo/nanumfont_otf_myungjo.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "한국 전통 명조의 우아한 붓글씨 멋을 현대적으로 계승한 글꼴"
+  },
+  {
+    "id": "nanumfont-square",
+    "name": "나눔스퀘어",
+    "family": "nanumsquar",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      300,
+      400,
+      700,
+      800
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_square/nanumfont_square.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "제목용으로 설계되어 깔끔하고 힘 있는 인상을 주는 직선형 고딕 서체"
+  },
+  {
+    "id": "nanumfont-square-round",
+    "name": "나눔스퀘어 라운드",
+    "family": "nanumsquareround",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      300,
+      400,
+      700,
+      800
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_square_round/nanumfont_square_round.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "나눔스퀘어의 직선 조형에 둥근 모서리를 더해 부드러운 인상을 주는 서체"
+  },
+  {
+    "id": "nanumhuman",
+    "name": "나눔인쇄체",
+    "family": "nanumhuman",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      200,
+      300,
+      400,
+      700,
+      800,
+      900
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumhuman/nanumhuman.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "다양한 굵기를 지원하는 나눔 글꼴 패밀리"
+  },
+  {
+    "id": "nanummyeongjo-yethangul",
+    "name": "나눔명조 옛한글",
+    "family": "nanummyeongjo",
+    "category": "serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      300
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanummyeongjo-yethangul/nanummyeongjo-yethangul.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "옛한글 문헌 표기를 완벽히 지원하는 나눔명조 서체"
+  },
+  {
+    "id": "nanumpen",
+    "name": "나눔손글씨 펜",
+    "family": "nanumpen",
+    "category": "handwriting",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumpen/nanumpen.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "펜으로 쓴 듯한 정갈하고 감성적인 나눔손글씨 펜체"
+  },
+  {
+    "id": "nanumsquareneo",
+    "name": "나눔스퀘어 네오",
+    "family": "nanumsquareneo",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "네이버",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      300,
+      400,
+      700,
+      800,
+      900
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumsquareneo/nanumsquareneo.css",
+    "homepage": "https://hangeul.naver.com/font",
+    "description": "나눔스퀘어의 직선미를 한층 발전시켜 5단계 굵기로 확장한 최신 서체"
+  },
+  {
+    "id": "paperozi",
+    "name": "페이퍼로지체",
+    "family": "paperlogy",
+    "category": "sans-serif",
+    "version": "1.001",
+    "type": "self-hosted",
+    "author": "freesentation",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/paperozi/paperozi.css",
+    "homepage": "https://freesentation.blog/paperlogyfont",
+    "description": "종이의 질감과 구조미를 살린 제목/본문용 무료 서체"
+  },
+  {
+    "id": "pretendard",
+    "name": "프리텐다드",
+    "family": "pretendard",
+    "category": "sans-serif",
+    "version": "1.3.9",
+    "type": "self-hosted",
+    "author": "길형진 (Kil Hyung-jin)",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      100,
+      200,
+      300,
+      400,
+      500,
+      600,
+      700,
+      800,
+      900
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/pretendard/pretendard.css",
+    "homepage": "https://github.com/orioncactus/pretendard",
+    "description": "어디서나 잘 어울리는 본문용 깔끔한 고딕 서체"
+  },
+  {
+    "id": "riasans",
+    "name": "리아산스",
+    "family": "riasans",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "RIA",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400,
+      700,
+      800
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/riasans/riasans.css",
+    "homepage": "https://github.com/monodle/fontfinder-fonts1",
+    "description": "기하학적 구조와 가독성을 겸비한 산세리프 서체"
+  }
+]
