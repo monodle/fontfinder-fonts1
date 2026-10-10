@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'gangwonstate';
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gangwonstate-semibold.woff2') format('woff2');
+}

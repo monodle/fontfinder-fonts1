@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'ebshunminsaeronl';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ebshunminsaeronl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ebshunminsaeronr';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ebshunminsaeronr.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ebshunminsaeronsb';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ebshunminsaeronsb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ebsjusigyeongb';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ebsjusigyeongb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ebsjusigyeongl';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ebsjusigyeongl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ebsjusigyeongm';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ebsjusigyeongm.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ebsl';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ebsl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ebsr';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ebsr.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'ebssb';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./ebssb.woff2') format('woff2');
+}

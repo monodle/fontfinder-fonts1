@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'cmcorkr';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cmcorkr.woff2') format('woff2');
+}

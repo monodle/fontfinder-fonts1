@@ -1,0 +1,287 @@
+@font-face {
+  font-family: 'cafe24angbanana';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24angbanana.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24behappy';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24behappy.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24classictype-v1.1';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24classictype-v1.1.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24dangdanghae-v2.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24dangdanghae-v2.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24danjunghae-v2.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24danjunghae-v2.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24decobox';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24decobox.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24decoline';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24decoline.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24decomilk';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24decomilk.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24decoschool';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24decoschool.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24decoshadow';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24decoshadow.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24decozoo';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24decozoo.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24dongdong';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24dongdonglight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24dongdong';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24dongdongregular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24lovingu';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24lovingu.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24meongi-b-v1.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24meongi-b-v1.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24meongi-w-v1.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24meongi-w-v1.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24moyamoya-face-v1.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24moyamoya-face-v1.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24moyamoya-regular-v1.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24moyamoya-regular-v1.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24nyangi-b-v1.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24nyangi-b-v1.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24nyangi-w-v1.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24nyangi-w-v1.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24ohsquare-v2.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24ohsquare-v2.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24ohsquareair-v2.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24ohsquareair-v2.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24oneprettynight-v2.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24oneprettynight-v2.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24proslimair';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24proslimair.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24proslimfit';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24proslimfit.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24proslimmax';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24proslimmax.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24proup';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24proup.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24shiningstar-v2.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24shiningstar-v2.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24simplehae-v2.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24simplehae-v2.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24ssukssuk';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24ssukssuklight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24ssukssuk';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24ssukssukregular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24ssurround-v2.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24ssurround-v2.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24ssurroundair-v1.1';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24ssurroundair-v1.1.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24supermagic-bold-v1.0';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24supermagic-bold-v1.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24supermagic-regular-v1.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24supermagic-regular-v1.0.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24syongsyong-v2.0';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24syongsyong-v2.0.woff2') format('woff2');
+}
