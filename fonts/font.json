@@ -29,8 +29,8 @@
     "description": "다양한 두께를 지원하는 무료 제목/본문용 서체"
   },
   {
-    "id": "bm-fonts",
-    "name": "배달의민족 서체 패키지",
+    "id": "bmdohyeon",
+    "name": "배달의민족 도현",
     "family": "bmdohyeon",
     "category": "display",
     "version": "1.0.0",
@@ -45,9 +45,217 @@
       "latin"
     ],
     "isVariable": false,
-    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bm-fonts.css",
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmdohyeon.css",
     "homepage": "https://www.woowahan.com/fonts",
-    "description": "우아한형제들의 배달의민족 브랜드 무료 글꼴 모음 (도현, 을지로, 한나, 주아, 연성 등)"
+    "description": "배달의민족 - 배달의민족 도현"
+  },
+  {
+    "id": "bmeuljiro",
+    "name": "배달의민족 을지로",
+    "family": "bmeuljiro",
+    "category": "display",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "우아한형제들",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmeuljiro.css",
+    "homepage": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 - 배달의민족 을지로"
+  },
+  {
+    "id": "bmeuljiro10yearslater",
+    "name": "배달의민족 을지로 10년후",
+    "family": "bmeuljiro10yearslater",
+    "category": "display",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "우아한형제들",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmeuljiro10yearslater.css",
+    "homepage": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 - 배달의민족 을지로 10년후"
+  },
+  {
+    "id": "bmeuljirooraeorae",
+    "name": "배달의민족 을지로 오래오래",
+    "family": "bmeuljirooraeorae",
+    "category": "display",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "우아한형제들",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmeuljirooraeorae.css",
+    "homepage": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 - 배달의민족 을지로 오래오래"
+  },
+  {
+    "id": "bmhanna-11yrs",
+    "name": "Bmhanna 11yrs",
+    "family": "bmhanna_11yrs",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "알 수 없음",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmhanna_11yrs.css"
+  },
+  {
+    "id": "bmhannaair",
+    "name": "배달의민족 한나 Air",
+    "family": "bmhannaair",
+    "category": "display",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "우아한형제들",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmhannaair.css",
+    "homepage": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 - 배달의민족 한나 Air"
+  },
+  {
+    "id": "bmhannapro",
+    "name": "배달의민족 한나 Pro",
+    "family": "bmhannapro",
+    "category": "display",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "우아한형제들",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmhannapro.css",
+    "homepage": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 - 배달의민족 한나 Pro"
+  },
+  {
+    "id": "bmjua",
+    "name": "배달의민족 주아",
+    "family": "bmjua",
+    "category": "display",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "우아한형제들",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmjua.css",
+    "homepage": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 - 배달의민족 주아"
+  },
+  {
+    "id": "bmkiranghaerang",
+    "name": "배달의민족 기랑해랑",
+    "family": "bmkiranghaerang",
+    "category": "display",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "우아한형제들",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmkiranghaerang.css",
+    "homepage": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 - 배달의민족 기랑해랑"
+  },
+  {
+    "id": "bmkkubulim",
+    "name": "배달의민족 꾸불림",
+    "family": "bmkkubulim",
+    "category": "display",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "우아한형제들",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmkkubulim.css",
+    "homepage": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 - 배달의민족 꾸불림"
+  },
+  {
+    "id": "bmyeonsung",
+    "name": "배달의민족 연성",
+    "family": "bmyeonsung",
+    "category": "display",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "우아한형제들",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmyeonsung.css",
+    "homepage": "https://www.woowahan.com/fonts",
+    "description": "배달의민족 - 배달의민족 연성"
   },
   {
     "id": "freesentation",
@@ -102,17 +310,16 @@
     "description": "다양한 매체에서 직관적인 인상을 주는 Gmarket 전용 서체"
   },
   {
-    "id": "gwpoof",
-    "name": "강원교육 모두체",
-    "family": "gwpoof",
-    "category": "display",
+    "id": "gwpoof-modu",
+    "name": "Gwpoof Modu",
+    "family": "gwpoof_modu",
+    "category": "sans-serif",
     "version": "1.0.0",
     "type": "self-hosted",
-    "author": "강원도교육청",
-    "license": "공공누리 제1유형",
+    "author": "알 수 없음",
+    "license": "SIL OFL 1.1",
     "weights": [
       300,
-      400,
       700
     ],
     "subsets": [
@@ -120,19 +327,17 @@
       "latin"
     ],
     "isVariable": false,
-    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof.css",
-    "homepage": "https://www.gwe.go.kr",
-    "description": "강원도교육청에서 개발 및 배포하는 공공 무료 서체"
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof_modu.css"
   },
   {
-    "id": "heungkuklife",
-    "name": "흥국생명 마음글씨체",
-    "family": "jeonhwaseon",
-    "category": "handwriting",
+    "id": "gwpoof-modu-ho",
+    "name": "Gwpoof Modu Ho",
+    "family": "gwpoof_modu_ho",
+    "category": "sans-serif",
     "version": "1.0.0",
     "type": "self-hosted",
-    "author": "흥국생명",
-    "license": "무료 상업용 라이선스",
+    "author": "알 수 없음",
+    "license": "SIL OFL 1.1",
     "weights": [
       400
     ],
@@ -141,9 +346,45 @@
       "latin"
     ],
     "isVariable": false,
-    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/heungkuklife/heungkuklife.css",
-    "homepage": "https://www.heungkuklife.co.kr",
-    "description": "흥국생명 마음글씨 공모전 당선 손글씨 서체 모음 (이서윤체, 전화선체, 심경하체)"
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof_modu_ho.css"
+  },
+  {
+    "id": "gwpoof-modu-seom",
+    "name": "Gwpoof Modu Seom",
+    "family": "gwpoof_modu_seom",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "알 수 없음",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof_modu_seom.css"
+  },
+  {
+    "id": "gwpoof-modu-tt",
+    "name": "Gwpoof Modu Tt",
+    "family": "gwpoof_modu_tt",
+    "category": "sans-serif",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "알 수 없음",
+    "license": "SIL OFL 1.1",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof_modu_tt.css"
   },
   {
     "id": "jalnan2",
@@ -188,6 +429,48 @@
     "description": "야놀자 잘난체의 개성을 살리면서 본문 가독성을 높인 고딕 서체"
   },
   {
+    "id": "jeonhwaseon",
+    "name": "흥국생명 전화선체",
+    "family": "jeonhwaseon",
+    "category": "handwriting",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "흥국생명",
+    "license": "무료 상업용 라이선스",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/heungkuklife/jeonhwaseon.css",
+    "homepage": "https://www.heungkuklife.co.kr",
+    "description": "흥국생명 마음글씨체 - 흥국생명 전화선체"
+  },
+  {
+    "id": "leeseoyoon",
+    "name": "흥국생명 이서윤체",
+    "family": "leeseoyoon",
+    "category": "handwriting",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "흥국생명",
+    "license": "무료 상업용 라이선스",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/heungkuklife/leeseoyoon.css",
+    "homepage": "https://www.heungkuklife.co.kr",
+    "description": "흥국생명 마음글씨체 - 흥국생명 이서윤체"
+  },
+  {
     "id": "maruburiotf",
     "name": "마루 부리",
     "family": "maruburi",
@@ -214,8 +497,8 @@
   },
   {
     "id": "nanumbarungothic-yethangul",
-    "name": "나눔바른고딕 옛한글",
-    "family": "nanumbarungothic",
+    "name": "나눔바른고딕",
+    "family": "nanumbarungothic-yethangul",
     "category": "sans-serif",
     "version": "1.0.0",
     "type": "self-hosted",
@@ -231,7 +514,7 @@
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumbarungothic-yethangul/nanumbarungothic-yethangul.css",
     "homepage": "https://hangeul.naver.com/font",
-    "description": "옛한글 문헌 표기를 완벽히 지원하는 나눔바른고딕 서체"
+    "description": "모바일과 디지털 디스플레이에 최적화된 바르고 깔끔한 본문용 고딕"
   },
   {
     "id": "nanumbrush",
@@ -372,7 +655,7 @@
   },
   {
     "id": "nanumfont-otf-myungjo",
-    "name": "나눔명조",
+    "name": "나눔명조 옛한글",
     "family": "nanummyeongjo",
     "category": "serif",
     "version": "1.0.0",
@@ -391,12 +674,12 @@
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_otf_myungjo/nanumfont_otf_myungjo.css",
     "homepage": "https://hangeul.naver.com/font",
-    "description": "한국 전통 명조의 우아한 붓글씨 멋을 현대적으로 계승한 글꼴"
+    "description": "옛한글 문헌 표기를 완벽히 지원하는 나눔명조 서체"
   },
   {
     "id": "nanumfont-square",
     "name": "나눔스퀘어",
-    "family": "nanumsquar",
+    "family": "nanumsquare",
     "category": "sans-serif",
     "version": "1.0.0",
     "type": "self-hosted",
@@ -405,7 +688,6 @@
     "weights": [
       300,
       400,
-      700,
       800
     ],
     "subsets": [
@@ -413,7 +695,7 @@
       "latin"
     ],
     "isVariable": false,
-    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_square/nanumfont_square.css",
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_square/nanumsquare.css",
     "homepage": "https://hangeul.naver.com/font",
     "description": "제목용으로 설계되어 깔끔하고 힘 있는 인상을 주는 직선형 고딕 서체"
   },
@@ -451,7 +733,6 @@
     "author": "네이버",
     "license": "SIL OFL 1.1",
     "weights": [
-      200,
       300,
       400,
       700,
@@ -470,7 +751,7 @@
   {
     "id": "nanummyeongjo-yethangul",
     "name": "나눔명조 옛한글",
-    "family": "nanummyeongjo",
+    "family": "nanummyeongjo-yethangul",
     "category": "serif",
     "version": "1.0.0",
     "type": "self-hosted",
@@ -614,5 +895,26 @@
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/riasans/riasans.css",
     "homepage": "https://github.com/monodle/fontfinder-fonts1",
     "description": "기하학적 구조와 가독성을 겸비한 산세리프 서체"
+  },
+  {
+    "id": "simgyungha",
+    "name": "흥국생명 심경하체",
+    "family": "simgyungha",
+    "category": "handwriting",
+    "version": "1.0.0",
+    "type": "self-hosted",
+    "author": "흥국생명",
+    "license": "무료 상업용 라이선스",
+    "weights": [
+      400
+    ],
+    "subsets": [
+      "korean",
+      "latin"
+    ],
+    "isVariable": false,
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/heungkuklife/simgyungha.css",
+    "homepage": "https://www.heungkuklife.co.kr",
+    "description": "흥국생명 마음글씨체 - 흥국생명 심경하체"
   }
 ]

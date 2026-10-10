@@ -1,12 +1,4 @@
 @font-face {
-  font-family: 'nanumsquar';
-  font-weight: 800;
-  font-style: normal;
-  font-display: swap;
-  src: url('./nanumsquareb.woff2') format('woff2');
-}
-
-@font-face {
   font-family: 'nanumsquare';
   font-weight: 300;
   font-style: normal;
@@ -20,6 +12,14 @@
   font-style: normal;
   font-display: swap;
   src: url('./nanumsquarer.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumsquare';
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumsquareb.woff2') format('woff2');
 }
 
 @font-face {
