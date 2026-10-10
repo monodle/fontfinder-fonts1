@@ -1,0 +1,23 @@
+@font-face {
+  font-family: '11street_gothic';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./11street_gothic_light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: '11street_gothic';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./11street_gothic_regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: '11street_gothic';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./11street_gothic_bold.woff2') format('woff2');
+}

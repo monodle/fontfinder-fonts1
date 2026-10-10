@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'gamtanroad-b';
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-b-thin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gamtanroad-b';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-b-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'gamtanroad-b';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('./gamtanroad-b-bold.woff2') format('woff2');
+}

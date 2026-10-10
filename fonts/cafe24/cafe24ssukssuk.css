@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'cafe24ssukssuk';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24ssukssuklight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'cafe24ssukssuk';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./cafe24ssukssukregular.woff2') format('woff2');
+}

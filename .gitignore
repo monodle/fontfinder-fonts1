@@ -165,6 +165,8 @@ sample/
 
 *.ttf
 *.otf
+*.pdf
+*.txt
 
 package.json
 pnpm-lock.yaml
