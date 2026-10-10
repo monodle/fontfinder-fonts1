@@ -165,3 +165,7 @@ sample/
 
 *.ttf
 *.otf
+
+package.json
+pnpm-lock.yaml
+package-lock.json

@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'nanumsquareb';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumsquareb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumsquareeb';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumsquareeb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumsquarel';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumsquarel.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumsquareotf';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumsquareotf_acb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumsquareotf';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumsquareotf_aceb.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumsquareotf';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumsquareotf_acl.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumsquareotf';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumsquareotf_acr.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'nanumsquarer';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./nanumsquarer.woff2') format('woff2');
+}
