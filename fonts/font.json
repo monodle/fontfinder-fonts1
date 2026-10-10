@@ -6,7 +6,7 @@
     "category": "sans-serif",
     "version": "1.001",
     "type": "self-hosted",
-    "author": "freesentation",
+    "author": "이주임 / 라틴글립스는 Outfit 폰트를 변형하여 사용하였습니다",
     "license": "SIL OFL 1.1",
     "weights": [
       100,
@@ -25,17 +25,16 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/a2z/a2z.css",
-    "homepage": "https://freesentation.blog/a2z",
-    "description": "다양한 두께를 지원하는 무료 제목/본문용 서체"
+    "description": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다."
   },
   {
     "id": "bmdohyeon",
     "name": "배달의민족 도현",
     "family": "bmdohyeon",
     "category": "display",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "우아한형제들",
+    "author": "Sandoll Communications Inc.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -46,17 +45,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmdohyeon.css",
-    "homepage": "https://www.woowahan.com/fonts",
-    "description": "배달의민족 - 배달의민족 도현"
+    "homepage": "http://www.sandoll.co.kr",
+    "description": "Sandoll Communications Inc."
   },
   {
     "id": "bmeuljiro",
-    "name": "배달의민족 을지로",
+    "name": "배달의민족 을지로체",
     "family": "bmeuljiro",
     "category": "display",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "우아한형제들",
+    "author": "Sandoll Inc.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -67,17 +66,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmeuljiro.css",
-    "homepage": "https://www.woowahan.com/fonts",
-    "description": "배달의민족 - 배달의민족 을지로"
+    "homepage": "http://www.woowahan.com",
+    "description": "Copyright © 2019, Woowa Brothers Corporation (http://www.woowahan.com), with Reserved Font Name BM EULJIRO, BM EULJIRO TTF.\n\r\nPREAMBLE\n\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\n\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.\n\r\nThe fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\n\r\nPERMISSION & CONDITIONS\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\r\nNeither the Font Software nor any of its individual components,in Original or Modified Versions, may be sold by itself.\n\r\nOriginal or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n\r\nNo Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\n\r\nThe name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to\n\r\nacknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\n\r\nThe Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\r\nTERMINATION\n\r\nThis license becomes null and void if any of the above conditions are not met.\n\r\nDISCLAIMER\n\r\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT\n\r\nSOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."
   },
   {
     "id": "bmeuljiro10yearslater",
-    "name": "배달의민족 을지로 10년후",
+    "name": "배민 을지로10년후체",
     "family": "bmeuljiro10yearslater",
     "category": "display",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "우아한형제들",
+    "author": "Sandoll Inc.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -88,17 +87,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmeuljiro10yearslater.css",
-    "homepage": "https://www.woowahan.com/fonts",
-    "description": "배달의민족 - 배달의민족 을지로 10년후"
+    "homepage": "http://www.woowahan.com",
+    "description": "Copyright © 2020, Woowa Brothers Corporation (http://www.woowahan.com), with Reserved Font Name BM Euljiro 10 years later, BM Euljiro 10 years later OTF.\n\r\nPREAMBLE\n\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\n\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.\n\r\nThe fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\n\r\nPERMISSION & CONDITIONS\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\r\n1. Neither the Font Software nor any of its individual components,in Original or Modified Versions, may be sold by itself.\n\r\n2. Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n\r\n3. No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\n\r\n4. The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to\n\r\nacknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\n\r\n1. The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\r\nTERMINATION\n\r\nThis license becomes null and void if any of the above conditions are not met.\n\r\nDISCLAIMER\n\r\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT\n\r\nSOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."
   },
   {
     "id": "bmeuljirooraeorae",
-    "name": "배달의민족 을지로 오래오래",
+    "name": "배달의민족 을지로오래오래체",
     "family": "bmeuljirooraeorae",
     "category": "display",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "우아한형제들",
+    "author": "Sandoll Inc.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -109,17 +108,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmeuljirooraeorae.css",
-    "homepage": "https://www.woowahan.com/fonts",
-    "description": "배달의민족 - 배달의민족 을지로 오래오래"
+    "homepage": "http://www.woowahan.com",
+    "description": "Copyright © 2021, Woowa Brothers Corporation (http://www.woowahan.com), with Reserved Font Name BM Euljiro oraeorae, BM Euljiro oraeorae OTF.\n\r\nPREAMBLE\n\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\n\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.\n\r\nThe fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\n\r\nPERMISSION & CONDITIONS\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\r\n1. Neither the Font Software nor any of its individual components,in Original or Modified Versions, may be sold by itself.\n\r\n2. Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n\r\n3. No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\n\r\n4. The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to\n\r\nacknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\n\r\n1. The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\r\nTERMINATION\n\r\nThis license becomes null and void if any of the above conditions are not met.\n\r\nDISCLAIMER\n\r\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT\n\r\nSOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."
   },
   {
     "id": "bmhanna-11yrs",
-    "name": "Bmhanna 11yrs",
+    "name": "배달의민족 한나는 열한살",
     "family": "bmhanna_11yrs",
     "category": "sans-serif",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "알 수 없음",
+    "author": "Woowa Brothers Corp.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -129,16 +128,18 @@
       "latin"
     ],
     "isVariable": false,
-    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmhanna_11yrs.css"
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmhanna_11yrs.css",
+    "homepage": "https://www.woowahan.com",
+    "description": "Woowa Brothers Corp."
   },
   {
     "id": "bmhannaair",
-    "name": "배달의민족 한나 Air",
+    "name": "배달의민족 한나체 Air",
     "family": "bmhannaair",
-    "category": "display",
-    "version": "1.0.0",
+    "category": "sans-serif",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "우아한형제들",
+    "author": "Sandoll Communications Inc.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -149,17 +150,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmhannaair.css",
-    "homepage": "https://www.woowahan.com/fonts",
-    "description": "배달의민족 - 배달의민족 한나 Air"
+    "homepage": "http://www.woowahan.com",
+    "description": "배달의민족 한나체 Air의 지적 재산권은 ㈜우아한형제들에 있습니다.\n\r\n\r\n배달의민족 한나체 Air는 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며\n\r\n자유롭게 수정하고 재배포하실 수 있습니다.\n\r\n\r\nCCopyright © 2018, Woowa Brothers Corporation (http://www.woowahan.com), with Reserved Font Name BM HANNA Air_TTF, BM HANNA Air_OTF\n\r\n\r\nPREAMBLE\n\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\n\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.\n\r\nThe fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\n\r\n\r\nPERMISSION & CONDITIONS\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\r\n 1) Neither the Font Software nor any of its individual components,in Original or Modified Versions, may be sold by itself.\n\r\n 2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n\r\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\n\r\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to\n\r\nacknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\n\r\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\r\n\r\nTERMINATION\n\r\nThis license becomes null and void if any of the above conditions are not met.\n\r\n\r\nDISCLAIMER\n\r\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT\n\r\nSOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."
   },
   {
     "id": "bmhannapro",
-    "name": "배달의민족 한나 Pro",
+    "name": "배달의민족 한나체 Pro",
     "family": "bmhannapro",
-    "category": "display",
-    "version": "1.0.0",
+    "category": "sans-serif",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "우아한형제들",
+    "author": "Sandoll Communications Inc.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -170,17 +171,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmhannapro.css",
-    "homepage": "https://www.woowahan.com/fonts",
-    "description": "배달의민족 - 배달의민족 한나 Pro"
+    "homepage": "http://www.woowahan.com",
+    "description": "배달의민족 한나체 Pro의 지적 재산권은 ㈜우아한형제들에 있습니다.\n\r\n\r\n배달의민족 한나체 Pro는 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며\n\r\n자유롭게 수정하고 재배포하실 수 있습니다.\n\r\n\r\nCopyright © 2018, Woowa Brothers Corporation (http://www.woowahan.com), with Reserved Font Name BM HANNA Pro_TTF, BM HANNA Pro_OTF\n\r\n\r\nPREAMBLE\n\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\n\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.\n\r\nThe fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\n\r\n\r\nPERMISSION & CONDITIONS\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\r\n 1) Neither the Font Software nor any of its individual components,in Original or Modified Versions, may be sold by itself.\n\r\n 2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n\r\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\n\r\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to\n\r\nacknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\n\r\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\r\n\r\nTERMINATION\n\r\nThis license becomes null and void if any of the above conditions are not met.\n\r\n\r\nDISCLAIMER\n\r\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT\n\r\nSOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."
   },
   {
     "id": "bmjua",
     "name": "배달의민족 주아",
     "family": "bmjua",
     "category": "display",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "우아한형제들",
+    "author": "Woowa Brothers Corp.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -191,17 +192,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmjua.css",
-    "homepage": "https://www.woowahan.com/fonts",
-    "description": "배달의민족 - 배달의민족 주아"
+    "homepage": "https://www.woowahan.com",
+    "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1."
   },
   {
     "id": "bmkiranghaerang",
     "name": "배달의민족 기랑해랑",
     "family": "bmkiranghaerang",
     "category": "display",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "우아한형제들",
+    "author": "Sandoll Communications Inc.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -212,17 +213,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmkiranghaerang.css",
-    "homepage": "https://www.woowahan.com/fonts",
-    "description": "배달의민족 - 배달의민족 기랑해랑"
+    "homepage": "http://www.sandoll.co.kr",
+    "description": "배달의민족 기랑해랑체의 지적 재산권은 ㈜우아한형제들에 있습니다.  \r\n배달의민족 기랑해랑체는 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며 자유롭게 수정하고 재배포하실 수 있습니다.  \r\n \r\n단, 글꼴 자체를 유료로 판매하는 것은 금지하며,  \r\n배달의민족 기랑해랑체는 본 저작권 안내와 라이선스 전문을 포함해서 다른 소프트웨어와 번들하거나 재배포 또는 판매가 가능합니다.  \r\n배달의민족 기랑해랑체 라이선스 전문을 포함하기 어려울 경우, 배달의민족 기랑해랑체의 출처 표기를 권장합니다.  \r\n \r\n배달의민족 기랑해랑체를 사용한 인쇄물, 광고물(온라인 포함)의 이미지는 우아한형제들(배달의민족) 프로모션을 위해 활용될 수 있습니다.  \r\n이를 원치 않는 사용자는 언제든지 당사에 요청하실 수 있습니다.  \r\n정확한 사용 조건은 아래 배달의민족 기랑해랑체 라이선스 전문을 참고하시기 바랍니다.  \r\n \r\n \r\n정의  \r\n‘폰트 소프트웨어’는 본 라이선스에 입거해 저작권자가 배포하고 명확하게 같은 표시가 된 파일들의 집합을 뜻하며, 여기에는 소스 파일, 빌드 스크립트와 문서가 이에 포함됩니다.  \r\n \r\n‘저작권이 있는 폰트명’은 저작권 정책에 따라서 지정된 이름을 말합니다.  \r\n \r\n‘원본’은 저작권자가 배포한 폰트 소프트웨어 구성요소를 의미합니다.  \r\n \r\n‘수정본’은 포맷의 변경이나 폰트 소프트웨어를 새로운 환경에 포팅시켜, 원본의 일부 혹은 전체에 추가, 삭제 대체해 만든 파생 저작물을 의미합니다. ‘저자’는 폰트 소프트웨어에 기여한 디자이너, 엔지니어, 프로그래머, 기술 전문가 등을 의미합니다.  \r\n \r\n \r\n전문  \r\n본 폰트 라이선스를 오픈 하는 것은(이하 OFL)는 전 세계 폰트 개발 프로젝트를 지원하고 학계와 언어 관련 학계의 폰트 개발을 위한 연구를 지지하기 위해서인 동시에, 폰트 제휴를 통해 폰트가 공유되고 개선될 수 있는 자유롭게 개방된 환경을 만들기 위해서 입니다.  \r\n \r\nOFL은 라이선스를 취득한 폰트가 그 자체로 판매되지 않는 한 자유롭게 사용, 연구, 수정, 재배포 하는 것을 허가합니다. 수정된 폰트를 포함한 폰트는 저작권 명이 사용되지 않는 한 기타 소프트웨어와 함께 묶이거나 삽입, 재배포 할 수 있습니다. 단 폰트와 수정된 폰트는 기타 다른 라이선스에 포함되어 배포될 수는 없습니다. 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트나 수정본을 사용하여 제작된 어떠한 문서에도 적용되지 않습니다.  \r\n \r\n허가 및 조건  \r\n본 폰트 소프트웨어를 사용하도록 허가 받은 개인/기업/단체 누구라도 다음 명시된 조건에 따라 폰트 소프트웨어의 수정 혹은 수정되지 않은 복사본을 무료로 사용, 연구, 복사, 통합, 삽입, 수정, 재배포할 수 있도록 허가합니다.  \r\n \r\n원본이나 수정본의 폰트 소프트웨어 혹은 개별 구성요소인 폰트 자체가 판매되어서는 안됩니다.  \r\n \r\n본 폰트 소프트웨어의 원본 혹은 수정본은 상기 저작권 안내와 본 라이선스에 대한 내용을 포함하는 경우에는 다른 소프트웨어와 함께 묶이거나 재배포 혹은 판매가 가능합니다. 이는 독립 텍스트 파일과 가독성이 있는 헤더 혹은 유저가 용이하게 열람 가능한 이상 텍스트파일 혹은 이진파일 내 기계가 읽을 수 있는 메타데이터 형태를 모두 의미 합니다.  \r\n \r\n본 폰트 소프트웨어의 어떠한 수정본도 동일한 저작권자가 명시적 허가서를 부여하지 않는 한 저작권이 있는 폰트명을 사용해서는 안 됩니다. 본 제한 사항은 유저들에게 제공된 기존 폰트명을 뜻합니다.  \r\n \r\n본 폰트 소프트웨어의 저작권자 혹은 저자의 이름은 그들의 명시적 서면 허가가 있거나 또는 그들의 공헌을 인정하기 위한 경우를 제외하고는 수정본에 대한 사용을 유도,추천 혹은 광고하기 위한 목적으로 사용할 수 없습니다.  \r\n \r\n본 폰트 소프트웨어는 전체나 부분, 혹은 수정 여부에 상관없이 본 라이선스 하에 배포가 되어야 하며 기타 다른 라이선스 하에서는 배포를 할 수 없습니다. 폰트에 대한 요구조건은 이 라이선스 하에서만 유효하며 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트 소프트웨어를 사용해 제작한 어떠한 문서에도 적용되지 않습니다.  \r\n \r\n \r\n계약의 종료  \r\n본 라이선스는 상기 조건 중 일부라도 부합되지 않으면 무효가 될 수 있습니다.  \r\n \r\n \r\n면책조항  \r\n본 폰트 소프트웨어는 저작권, 특허권, 상표권 및 기타 권리의 비침해성과 특정 목적에의 적합성 포함한 명시적, 묵시적인 어떠한 종류의 보증 없이 “있는 그대로” 제공됩니다. 어떠한 경우에도 저작권자는 본 폰트 소프트웨어의 사용 또는 이의 사용불가, 그밖에 폰트 소프트웨어의 취급과 관련하여 발생하는 모든 계약, 불법행위 혹은 다른 일로 하여금 발생하는 일반적, 특수적, 간접적, 부차적 혹은 필연적 손해를 포함하는 소송, 손해, 혹은 기타 책임에 대한 의무를 가지지 않습니다."
   },
   {
     "id": "bmkkubulim",
     "name": "배달의민족 꾸불림",
     "family": "bmkkubulim",
     "category": "display",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "우아한형제들",
+    "author": "㈜우아한형제들",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -233,17 +234,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmkkubulim.css",
-    "homepage": "https://www.woowahan.com/fonts",
-    "description": "배달의민족 - 배달의민족 꾸불림"
+    "homepage": "http://www.woowahan.com",
+    "description": "배달의민족 꾸불림의 지적재산권은 ㈜우아한형제들에 있습니다."
   },
   {
     "id": "bmyeonsung",
     "name": "배달의민족 연성",
     "family": "bmyeonsung",
     "category": "display",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "우아한형제들",
+    "author": "Sandoll Communications Inc.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -254,17 +255,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/bm-fonts/bmyeonsung.css",
-    "homepage": "https://www.woowahan.com/fonts",
-    "description": "배달의민족 - 배달의민족 연성"
+    "homepage": "http://www.woowahan.com",
+    "description": "배달의민족 연성체의 지적 재산권은 ㈜우아한형제들에 있습니다.\r\n배달의민족 연성체는 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며 자유롭게 수정하고 재배포하실 수 있습니다.\r\n\r\n단, 글꼴 자체를 유료로 판매하는 것은 금지하며,\r\n배달의민족 연성체는 본 저작권 안내와 라이선스 전문을 포함해서 다른 소프트웨어와 번들하거나 재배포 또는 판매가 가능합니다.\r\n배달의민족 연성체 라이선스 전문을 포함하기 어려울 경우, 배달의민족 연성체의 출처 표기를 권장합니다.\r\n\r\n배달의민족 연성체를 사용한 인쇄물, 광고물(온라인 포함)의 이미지는 우아한형제들(배달의민족) 프로모션을 위해 활용될 수 있습니다.\r\n이를 원치 않는 사용자는 언제든지 당사에 요청하실 수 있습니다.\r\n정확한 사용 조건은 아래 배달의민족 연성체 라이선스 전문을 참고하시기 바랍니다.\r\n\r\n\r\n정의\r\n‘폰트 소프트웨어’는 본 라이선스에 입거해 저작권자가 배포하고 명확하게 같은 표시가 된 파일들의 집합을 뜻하며, 여기에는 소스 파일, 빌드 스크립트와 문서가 이에 포함됩니다.\r\n\r\n‘저작권이 있는 폰트명’은 저작권 정책에 따라서 지정된 이름을 말합니다.\r\n\r\n‘원본’은 저작권자가 배포한 폰트 소프트웨어 구성요소를 의미합니다.\r\n\r\n‘수정본’은 포맷의 변경이나 폰트 소프트웨어를 새로운 환경에 포팅시켜, 원본의 일부 혹은 전체에 추가, 삭제 대체해 만든 파생 저작물을 의미합니다. ‘저자’는 폰트 소프트웨어에 기여한 디자이너, 엔지니어, 프로그래머, 기술 전문가 등을 의미합니다.\r\n\r\n\r\n전문\r\n본 폰트 라이선스를 오픈 하는 것은(이하 OFL)는 전 세계 폰트 개발 프로젝트를 지원하고 학계와 언어 관련 학계의 폰트 개발을 위한 연구를 지지하기 위해서인 동시에, 폰트 제휴를 통해 폰트가 공유되고 개선될 수 있는 자유롭게 개방된 환경을 만들기 위해서 입니다.\r\n\r\nOFL은 라이선스를 취득한 폰트가 그 자체로 판매되지 않는 한 자유롭게 사용, 연구, 수정, 재배포 하는 것을 허가합니다. 수정된 폰트를 포함한 폰트는 저작권 명이 사용되지 않는 한 기타 소프트웨어와 함께 묶이거나 삽입, 재배포 할 수 있습니다. 단 폰트와 수정된 폰트는 기타 다른 라이선스에 포함되어 배포될 수는 없습니다. 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트나 수정본을 사용하여 제작된 어떠한 문서에도 적용되지 않습니다.\r\n\r\n허가 및 조건\r\n본 폰트 소프트웨어를 사용하도록 허가 받은 개인/기업/단체 누구라도 다음 명시된 조건에 따라 폰트 소프트웨어의 수정 혹은 수정되지 않은 복사본을 무료로 사용, 연구, 복사, 통합, 삽입, 수정, 재배포할 수 있도록 허가합니다.\r\n\r\n원본이나 수정본의 폰트 소프트웨어 혹은 개별 구성요소인 폰트 자체가 판매되어서는 안됩니다.\r\n\r\n본 폰트 소프트웨어의 원본 혹은 수정본은 상기 저작권 안내와 본 라이선스에 대한 내용을 포함하는 경우에는 다른 소프트웨어와 함께 묶이거나 재배포 혹은 판매가 가능합니다. 이는 독립 텍스트 파일과 가독성이 있는 헤더 혹은 유저가 용이하게 열람 가능한 이상 텍스트파일 혹은 이진파일 내 기계가 읽을 수 있는 메타데이터 형태를 모두 의미 합니다.\r\n\r\n본 폰트 소프트웨어의 어떠한 수정본도 동일한 저작권자가 명시적 허가서를 부여하지 않는 한 저작권이 있는 폰트명을 사용해서는 안 됩니다. 본 제한 사항은 유저들에게 제공된 기존 폰트명을 뜻합니다.\r\n\r\n본 폰트 소프트웨어의 저작권자 혹은 저자의 이름은 그들의 명시적 서면 허가가 있거나 또는 그들의 공헌을 인정하기 위한 경우를 제외하고는 수정본에 대한 사용을 유도,추천 혹은 광고하기 위한 목적으로 사용할 수 없습니다.\r\n\r\n본 폰트 소프트웨어는 전체나 부분, 혹은 수정 여부에 상관없이 본 라이선스 하에 배포가 되어야 하며 기타 다른 라이선스 하에서는 배포를 할 수 없습니다. 폰트에 대한 요구조건은 이 라이선스 하에서만 유효하며 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트 소프트웨어를 사용해 제작한 어떠한 문서에도 적용되지 않습니다.\r\n\r\n\r\n계약의 종료\r\n본 라이선스는 상기 조건 중 일부라도 부합되지 않으면 무효가 될 수 있습니다.\r\n\r\n\r\n면책조항\r\n본 폰트 소프트웨어는 저작권, 특허권, 상표권 및 기타 권리의 비침해성과 특정 목적에의 적합성 포함한 명시적, 묵시적인 어떠한 종류의 보증 없이 “있는 그대로” 제공됩니다. 어떠한 경우에도 저작권자는 본 폰트 소프트웨어의 사용 또는 이의 사용불가, 그밖에 폰트 소프트웨어의 취급과 관련하여 발생하는 모든 계약, 불법행위 혹은 다른 일로 하여금 발생하는 일반적, 특수적, 간접적, 부차적 혹은 필연적 손해를 포함하는 소송, 손해, 혹은 기타 책임에 대한 의무를 가지지 않습니다."
   },
   {
     "id": "freesentation",
     "name": "프리젠테이션",
     "family": "freesentation",
     "category": "sans-serif",
-    "version": "1.3.9",
+    "version": "2.001",
     "type": "self-hosted",
-    "author": "freesentation",
+    "author": "피티앤",
     "license": "SIL OFL 1.1",
     "weights": [
       100,
@@ -283,17 +284,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/freesentation/freesentation.css",
-    "homepage": "https://freesentation.blog/freesentation",
-    "description": "프리젠테이션 문서 및 발표용 무료 한글 폰트"
+    "homepage": "https://www.designptn.com",
+    "description": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다. 라이선스에 대한 자세한 내용은 이곳에서 확인할 수 있습니다(영문): https://scripts.sil.org/OFL"
   },
   {
     "id": "gmarketsans",
-    "name": "Gmarket Sans",
+    "name": "G마켓 산스",
     "family": "gmarketsans",
     "category": "sans-serif",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "Gmarket",
+    "author": "Sandoll Inc.",
     "license": "SIL OFL 1.1",
     "weights": [
       300,
@@ -306,17 +307,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gmarketsans/gmarketsans.css",
-    "homepage": "https://corp.gmarket.com/fonts/",
-    "description": "다양한 매체에서 직관적인 인상을 주는 Gmarket 전용 서체"
+    "homepage": "http://www.gmarket.co.kr",
+    "description": "[요약]\r\n\r\n가능: 상업적 목적의 사용 (사용범위: 인쇄물,광고물, 온라인, 영상 포함\r\n\r\n수정 및 배포)\r\n\r\n불가능: 서브라이선스, 단독판매, 상표권 이용\r\n\r\n필수조건: 라이선스 포함, 수정 시 명칭 변경\r\n\r\n\r\n\r\n-G마켓산스 폰트의 지적재산권은 ㈜이베이코리아에게 있습니다.\r\n\r\n-G마켓산스 폰트는 개인 및 기업 사용자를 포함한 모든 사용자들에게 무료로 제공됩니다.\r\n\r\n-수정은 가능하나, 수정 시 ‘G마켓산스 폰트’라는 명칭은 사용할 수 없습니다.\r\n\r\n-G마켓산스 폰트를 유료로 판매하는 것은 금지되며, 본 저작권 안내 및 라이선스 전문을 포함하여 다른 소프트웨어와 번들하거나 재배포 또는 판매는 가능합니다.\r\n\r\n-라이선스 전문을 포함하기 어려울 경우 G마켓산스 폰트의 출처 표기를 권장합니다.\r\n\r\n(예시: 이 페이지는 이베이코리아에서 제공한 G마켓산스폰트가 적용되어 있습니다.)\r\n\r\n-G마켓산스 폰트를 사용한 제작물(인쇄물, 광고물, 온라인, 영상 포함)은 ㈜이베이코리아의 프로모션을 위해 활용될 수 있습니다. 이를 원하지 않는 사용자는 언제든지 이베이코리아에 사용중단을 요청하실 수 있습니다.\r\n\r\n-정확한 사용 조건은 아래 라이선스 전문을 참고하여 주십시오. 아래 라이선스 전문의 법적 효력은 영문에 한하고, 한글은 이용자의 이해를 돕기 위하여 제공되었습니다.\r\n\r\n \r\n\r\n[라이선스]\r\n\r\nCopyright © < 2019.>, <eBay Korea Co., Ltd.> (<www.gmarket.co.kr>),\r\nwith Reserved Font Name <Gmarket Sans Font>.\r\n\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\n\r\n \r\n\r\n[정의]\r\n\r\n‘폰트 소프트웨어’는 본 라이선스에 입거해 저작권자가 배포하고 명확하게 같은 표시가 된 파일들의 집합을 뜻하며, 여기에는 소스 파일, 빌드 스크립트와 문서가 이에 포함됩니다.\r\n\r\n‘저작권이 있는 폰트명’은 저작권 정책에 따라서 지정된 이름을 말합니다.\r\n\r\n‘원본’은 저작권자가 배포한 폰트 소프트웨어 구성요소를 의미합니다.\r\n\r\n‘수정본’은 포맷의 변경이나 폰트 소프트웨어를 새로운 환경에 포팅시켜, 원본의 일부 혹은 전체에 추가, 삭제 대체해 만든 파생 저작물을 의미합니다.\r\n\r\n‘저자’는 폰트 소프트웨어에 기여한 디자이너, 엔지니어, 프로그래머, 기술 전문가 등을 의미합니다.\r\n\r\n \r\n\r\n[전문]\r\n\r\n본 폰트 라이선스를 오픈 하는 것은(이하 OFL)는 전 세계 폰트 개발 프로젝트를 지원하고 학계와 언어 관련 학계의 폰트 개발을 위한 연구를 지지하기 위해서인 동시에, 폰트 제휴를 통해 폰트가 공유되고 개선될 수 있는 자유롭게 개방된 환경을 만들기 위해서 입니다.\r\n\r\nOFL은 라이선스를 취득한 폰트가 그 자체로 판매되지 않는 한 자유롭게 사용, 연구, 수정, 재배포 하는 것을 허가합니다. 수정된 폰트를 포함한 폰트는 저작권 명이 사용되지 않는 한 기타 소프트웨어와 함께 묶이거나 삽입, 재배포 할 수 있습니다. 단 폰트와 수정된 폰트는 기타 다른 라이선스에 포함되어 배포될 수는 없습니다. 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트나 수정본을 사용하여 제작된 어떠한 문서에도 적용되지 않습니다.\r\n\r\n \r\n\r\n[허가 및 조건]\r\n\r\n 본 폰트 소프트웨어를 사용하도록 허가 받은 개인/기업/단체 누구라도 다음 명시된 조건에 따라 폰트 소프트웨어의 수정 혹은 수정되지 않은 복사본을 무료로 사용, 연구, 복사, 통합, 삽입, 수정, 재배포할 수 있도록 허가합니다.\r\n\r\n \r\n\r\n1) 원본이나 수정본의 폰트 소프트웨어 혹은 개별 구성요소인 폰트 자체가 판매되어서는 안됩니다.\r\n\r\n2) 본 폰트 소프트웨어의 원본 혹은 수정본은 상기 저작권 안내와 본 라이선스에 대한 내용을 포함하는 경우에는 다른 소프트웨어와 함께 묶이거나 재배포 혹은 판매가 가능합니다. 이는 독립 텍스트 파일과 가독성이 있는 헤더 혹은 유저가 용이하게 열람 가능한 이상 텍스트파일 혹은 이진파일 내 기계가 읽을 수 있는 메타데이터 형태를 모두 의미 합니다.\r\n\r\n3) 본 폰트 소프트웨어의 어떠한 수정본도 동일한 저작권자가 명시적 허가서를 부여하지 않는 한 저작권이 있는 폰트명을 사용해서는 안 됩니다. 본 제한 사항은 유저들에게 제공된 기존 폰트명을 뜻합니다.\r\n\r\n4) 본 폰트 소프트웨어의 저작권자 혹은 저자의 이름은 그들의 명시적 서면 허가가 있거나 또는 그들의 공헌을 인정하기 위한 경우를 제외하고는 수정본에 대한 사용을 유도,추천 혹은 광고하기 위한 목적으로 사용할 수 없습니다.\r\n\r\n5) 본 폰트 소프트웨어는 전체나 부분, 혹은 수정 여부에 상관없이 본 라이선스 하에 배포가 되어야 하며 기타 다른 라이선스 하에서는 배포를 할 수 없습니다. 폰트에 대한 요구조건은 이 라이선스 하에서만 유효하며 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트 소프트웨어를 사용해 제작한 어떠한 문서에도 적용되지 않습니다.\r\n\r\n6) 본 폰트 소프트웨어의 전체나 부분, 혹은 수정 여부에 상관없이 사용된 제작물, 예를 들어 인쇄물, 홍보물, 온라인 영상 등의 이미지는 본 폰트 소프트웨어의 홍보를 위한 수단으로 활용될 수 있으나, 활용에 대한 거부의사는 구체적인 조건과 함께 저작권자에게 표시하여야 합니다.\r\n\r\n \r\n\r\n[계약의 종료]\r\n\r\n본 라이선스는 상기 조건 중 일부라도 부합되지 않으면 무효가 될 수 있습니다.\r\n\r\n \r\n\r\n[면책조항]\r\n\r\n본 폰트 소프트웨어는 저작권, 특허권, 상표권 및 기타 권리의 비침해성과 특정 목적에의 적합성 포함한 명시적, 묵시적인 어떠한 종류의 보증 없이 “있는 그대로” 제공됩니다. 어떠한 경우에도 저작권자는 본 폰트 소프트웨어의 사용 또는 이의 사용불가, 그밖에 폰트 소프트웨어의 취급과 관련하여 발생하는 모든 계약, 불법행위 혹은 다른 일로 하여금 발생하는 일반적, 특수적, 간접적, 부차적 혹은 필연적 손해를 포함하는 소송, 손해, 혹은 기타 책임에 대한 의무를 가지지 않습니다."
   },
   {
     "id": "gwpoof-modu",
-    "name": "Gwpoof Modu",
+    "name": "강원교육모두",
     "family": "gwpoof_modu",
     "category": "sans-serif",
-    "version": "1.0.0",
+    "version": "1.00",
     "type": "self-hosted",
-    "author": "알 수 없음",
+    "author": "GangwonEdu.",
     "license": "SIL OFL 1.1",
     "weights": [
       300,
@@ -327,16 +328,18 @@
       "latin"
     ],
     "isVariable": false,
-    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof_modu.css"
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof_modu.css",
+    "homepage": "http://www.gwe.go.kr",
+    "description": "http://www.gwe.go.kr"
   },
   {
     "id": "gwpoof-modu-ho",
-    "name": "Gwpoof Modu Ho",
+    "name": "강원교육현옥샘",
     "family": "gwpoof_modu_ho",
     "category": "sans-serif",
-    "version": "1.0.0",
+    "version": "1.00",
     "type": "self-hosted",
-    "author": "알 수 없음",
+    "author": "GangwonEdu.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -346,16 +349,18 @@
       "latin"
     ],
     "isVariable": false,
-    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof_modu_ho.css"
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof_modu_ho.css",
+    "homepage": "http://www.gwe.go.kr",
+    "description": "http://www.gwe.go.kr"
   },
   {
     "id": "gwpoof-modu-seom",
-    "name": "Gwpoof Modu Seom",
+    "name": "강원교육새음",
     "family": "gwpoof_modu_seom",
     "category": "sans-serif",
-    "version": "1.0.0",
+    "version": "1.00",
     "type": "self-hosted",
-    "author": "알 수 없음",
+    "author": "GangwonEdu.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -365,16 +370,18 @@
       "latin"
     ],
     "isVariable": false,
-    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof_modu_seom.css"
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof_modu_seom.css",
+    "homepage": "http://www.gwe.go.kr",
+    "description": "http://www.gwe.go.kr"
   },
   {
     "id": "gwpoof-modu-tt",
-    "name": "Gwpoof Modu Tt",
+    "name": "강원교육튼튼",
     "family": "gwpoof_modu_tt",
     "category": "sans-serif",
-    "version": "1.0.0",
+    "version": "1.01",
     "type": "self-hosted",
-    "author": "알 수 없음",
+    "author": "GangwonEdu.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -384,16 +391,18 @@
       "latin"
     ],
     "isVariable": false,
-    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof_modu_tt.css"
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/gwpoof/gwpoof_modu_tt.css",
+    "homepage": "http://www.gwe.go.kr",
+    "description": "http://www.gwe.go.kr"
   },
   {
     "id": "jalnan2",
-    "name": "야놀자 야잘난체 2",
+    "name": "여기어때 잘난체 2",
     "family": "jalnan2",
     "category": "display",
-    "version": "2.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "야놀자",
+    "author": "Sandoll Inc.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -404,17 +413,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/jalnan2/jalnan2.css",
-    "homepage": "https://yanolja.in/brand/jalnan",
-    "description": "즐거운 여행의 감성을 담은 야놀자 브랜드 대표 서체 2세대"
+    "homepage": "https://www.sandoll.co.kr",
+    "description": "The intellectual property rights of Jalnan 2 is with GC COMPANY. Jalnan 2 is provided free of charge to all users, including individual and corporate users, and can be freely modified and redistributed."
   },
   {
     "id": "jalnangothic",
-    "name": "야놀자 잘난체 고딕",
+    "name": "여기어때 잘난체 고딕",
     "family": "jalnangothic",
-    "category": "sans-serif",
-    "version": "1.0.0",
+    "category": "display",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "야놀자",
+    "author": "Sandoll Inc.",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -425,18 +434,18 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/jalnangothic/jalnangothic.css",
-    "homepage": "https://yanolja.in/brand/jalnan",
-    "description": "야놀자 잘난체의 개성을 살리면서 본문 가독성을 높인 고딕 서체"
+    "homepage": "https://www.sandoll.co.kr",
+    "description": "The intellectual property rights of Jalnan Gothic is with GC COMPANY. Jalnan Gothic is provided free of charge to all users, including individual and corporate users, and can be freely modified and redistributed."
   },
   {
     "id": "jeonhwaseon",
-    "name": "흥국생명 전화선체",
+    "name": "전화선체",
     "family": "jeonhwaseon",
-    "category": "handwriting",
-    "version": "1.0.0",
+    "category": "sans-serif",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "흥국생명",
-    "license": "무료 상업용 라이선스",
+    "author": "TOGETHERGROUP",
+    "license": "SIL OFL 1.1",
     "weights": [
       400
     ],
@@ -446,18 +455,18 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/heungkuklife/jeonhwaseon.css",
-    "homepage": "https://www.heungkuklife.co.kr",
-    "description": "흥국생명 마음글씨체 - 흥국생명 전화선체"
+    "homepage": "https://itsfont.com",
+    "description": "Heungkuk Life Insurance Co., Ltd"
   },
   {
     "id": "leeseoyoon",
-    "name": "흥국생명 이서윤체",
+    "name": "이서윤체",
     "family": "leeseoyoon",
-    "category": "handwriting",
-    "version": "1.0.0",
+    "category": "sans-serif",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "흥국생명",
-    "license": "무료 상업용 라이선스",
+    "author": "TOGETHERGROUP",
+    "license": "SIL OFL 1.1",
     "weights": [
       400
     ],
@@ -467,17 +476,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/heungkuklife/leeseoyoon.css",
-    "homepage": "https://www.heungkuklife.co.kr",
-    "description": "흥국생명 마음글씨체 - 흥국생명 이서윤체"
+    "homepage": "https://itsfont.com",
+    "description": "Heungkuk Life Insurance Co., Ltd"
   },
   {
     "id": "maruburiotf",
     "name": "마루 부리",
     "family": "maruburi",
     "category": "serif",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "AG Typography Institute",
     "license": "SIL OFL 1.1",
     "weights": [
       200,
@@ -492,17 +501,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/maruburiotf/maruburiotf.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "화면용 명조체의 새로운 기준을 제시하는 네이버 마루 부리 글꼴"
+    "homepage": "http://www.agfont.com",
+    "description": "� NAVER Corp. � NAVER Cultural Foundation Corp."
   },
   {
     "id": "nanumbarungothic-yethangul",
-    "name": "나눔바른고딕",
+    "name": "나눔바른고딕 옛한글",
     "family": "nanumbarungothic-yethangul",
     "category": "sans-serif",
     "version": "1.0.0",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "NHN Corporation",
     "license": "SIL OFL 1.1",
     "weights": [
       300
@@ -513,17 +522,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumbarungothic-yethangul/nanumbarungothic-yethangul.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "모바일과 디지털 디스플레이에 최적화된 바르고 깔끔한 본문용 고딕"
+    "homepage": "http://www.nhncorp.com",
+    "description": "NHN Corporation"
   },
   {
     "id": "nanumbrush",
     "name": "나눔손글씨 붓",
     "family": "nanumbrush",
     "category": "handwriting",
-    "version": "1.0.0",
+    "version": "1.100",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "NHN Corporation",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -534,17 +543,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumbrush/nanumbrush.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "붓으로 직접 쓴 듯한 자연스러운 멋을 살린 나눔손글씨 붓체"
+    "homepage": "http://www.nhncorp.com",
+    "description": "NHN Corporation"
   },
   {
     "id": "nanumfont-barungothic",
     "name": "나눔바른고딕",
     "family": "nanumbarungothic",
     "category": "sans-serif",
-    "version": "1.0.0",
+    "version": "1.001",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "NHN Corporation",
     "license": "SIL OFL 1.1",
     "weights": [
       200,
@@ -558,17 +567,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_barungothic/nanumfont_barungothic.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "모바일과 디지털 디스플레이에 최적화된 바르고 깔끔한 본문용 고딕"
+    "homepage": "http://www.nhncorp.com",
+    "description": "NHN Corporation"
   },
   {
     "id": "nanumfont-barunpen",
     "name": "나눔바른펜",
     "family": "nanumbarunpen",
     "category": "handwriting",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "YoonDesign Inc.",
     "license": "SIL OFL 1.1",
     "weights": [
       400,
@@ -580,17 +589,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_barunpen/nanumfont_barunpen.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "반듯하고 단정한 손글씨 느낌을 주는 나눔바른펜 서체"
+    "homepage": "http://www.nhncorp.com",
+    "description": "NHN Corporation"
   },
   {
     "id": "nanumfont-gothic",
     "name": "나눔고딕",
     "family": "nanumgothic",
     "category": "sans-serif",
-    "version": "1.0.0",
+    "version": "3.021",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "NHN Corporation",
     "license": "SIL OFL 1.1",
     "weights": [
       300,
@@ -604,17 +613,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_gothic/nanumfont_gothic.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "네이버의 대표적인 디지털 화면용 한글 고딕 글꼴"
+    "homepage": "http://www.nhncorp.com",
+    "description": "NHN Corporation"
   },
   {
     "id": "nanumfont-gothiceco",
     "name": "나눔고딕 에코",
     "family": "nanumgothiceco",
     "category": "sans-serif",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "NHN Corporation",
     "license": "SIL OFL 1.1",
     "weights": [
       400,
@@ -627,17 +636,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_gothiceco/nanumfont_gothiceco.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "인쇄 시 잉크를 절약할 수 있도록 미세 구멍을 적용한 친환경 글꼴"
+    "homepage": "http://www.nhncorp.com",
+    "description": "NHN Corporation"
   },
   {
     "id": "nanumfont-myungjoeco",
     "name": "나눔명조 에코",
     "family": "nanummyeongjoeco",
     "category": "serif",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "NHN Corporation",
     "license": "SIL OFL 1.1",
     "weights": [
       400,
@@ -650,17 +659,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_myungjoeco/nanumfont_myungjoeco.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "인쇄 시 잉크를 절약할 수 있도록 제작된 친환경 나눔명조 글꼴"
+    "homepage": "http://www.nhncorp.com",
+    "description": "NHN Corporation"
   },
   {
     "id": "nanumfont-otf-myungjo",
-    "name": "나눔명조 옛한글",
+    "name": "나눔명조",
     "family": "nanummyeongjo",
     "category": "serif",
-    "version": "1.0.0",
+    "version": "3.011",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "NHN Corporation",
     "license": "SIL OFL 1.1",
     "weights": [
       400,
@@ -673,17 +682,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_otf_myungjo/nanumfont_otf_myungjo.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "옛한글 문헌 표기를 완벽히 지원하는 나눔명조 서체"
+    "homepage": "http://www.nhncorp.com",
+    "description": "NHN Corporation"
   },
   {
     "id": "nanumfont-square",
     "name": "나눔스퀘어",
     "family": "nanumsquare",
     "category": "sans-serif",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "NAVER Corporation",
     "license": "SIL OFL 1.1",
     "weights": [
       300,
@@ -696,17 +705,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_square/nanumsquare.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "제목용으로 설계되어 깔끔하고 힘 있는 인상을 주는 직선형 고딕 서체"
+    "homepage": "https://www.navercorp.com",
+    "description": "NAVER Corporation"
   },
   {
     "id": "nanumfont-square-round",
-    "name": "나눔스퀘어 라운드",
+    "name": "나눔스퀘어라운드",
     "family": "nanumsquareround",
     "category": "sans-serif",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "NAVER Coporation",
     "license": "SIL OFL 1.1",
     "weights": [
       300,
@@ -720,17 +729,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumfont_square_round/nanumfont_square_round.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "나눔스퀘어의 직선 조형에 둥근 모서리를 더해 부드러운 인상을 주는 서체"
+    "homepage": "http://www.navercorp.com",
+    "description": "NAVER Corporation"
   },
   {
     "id": "nanumhuman",
-    "name": "나눔인쇄체",
+    "name": "Nanumhuman",
     "family": "nanumhuman",
     "category": "sans-serif",
     "version": "1.0.0",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "알 수 없음",
     "license": "SIL OFL 1.1",
     "weights": [
       300,
@@ -744,9 +753,7 @@
       "latin"
     ],
     "isVariable": false,
-    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumhuman/nanumhuman.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "다양한 굵기를 지원하는 나눔 글꼴 패밀리"
+    "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumhuman/nanumhuman.css"
   },
   {
     "id": "nanummyeongjo-yethangul",
@@ -755,7 +762,7 @@
     "category": "serif",
     "version": "1.0.0",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "NHN Corporation",
     "license": "SIL OFL 1.1",
     "weights": [
       300
@@ -766,17 +773,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanummyeongjo-yethangul/nanummyeongjo-yethangul.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "옛한글 문헌 표기를 완벽히 지원하는 나눔명조 서체"
+    "homepage": "http://www.nhncorp.com",
+    "description": "Copyright (c) 2014 NHN Corporation. All rights reserved. Font designed by FONTRIX Inc."
   },
   {
     "id": "nanumpen",
     "name": "나눔손글씨 펜",
     "family": "nanumpen",
     "category": "handwriting",
-    "version": "1.0.0",
+    "version": "1.100",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "NHN Corporation",
     "license": "SIL OFL 1.1",
     "weights": [
       400
@@ -787,17 +794,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumpen/nanumpen.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "펜으로 쓴 듯한 정갈하고 감성적인 나눔손글씨 펜체"
+    "homepage": "http://www.nhncorp.com",
+    "description": "NHN Corporation"
   },
   {
     "id": "nanumsquareneo",
     "name": "나눔스퀘어 네오",
     "family": "nanumsquareneo",
     "category": "sans-serif",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "네이버",
+    "author": "Sandoll Inc.",
     "license": "SIL OFL 1.1",
     "weights": [
       300,
@@ -812,17 +819,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/nanumsquareneo/nanumsquareneo.css",
-    "homepage": "https://hangeul.naver.com/font",
-    "description": "나눔스퀘어의 직선미를 한층 발전시켜 5단계 굵기로 확장한 최신 서체"
+    "homepage": "http://www.navercorp.com",
+    "description": "Copyright � 2022 NAVER Corp. All rights reserved. Font Designed by Sandoll Inc."
   },
   {
     "id": "paperozi",
-    "name": "페이퍼로지체",
+    "name": "페이퍼로지",
     "family": "paperlogy",
     "category": "sans-serif",
     "version": "1.001",
     "type": "self-hosted",
-    "author": "freesentation",
+    "author": "피티앤",
     "license": "SIL OFL 1.1",
     "weights": [
       100,
@@ -841,17 +848,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/paperozi/paperozi.css",
-    "homepage": "https://freesentation.blog/paperlogyfont",
-    "description": "종이의 질감과 구조미를 살린 제목/본문용 무료 서체"
+    "homepage": "https://www.designptn.com",
+    "description": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다. 라이선스에 대한 자세한 내용은 이곳에서 확인할 수 있습니다(영문): https://scripts.sil.org/OFL"
   },
   {
     "id": "pretendard",
-    "name": "프리텐다드",
+    "name": "Pretendard",
     "family": "pretendard",
     "category": "sans-serif",
-    "version": "1.3.9",
+    "version": "1.309",
     "type": "self-hosted",
-    "author": "길형진 (Kil Hyung-jin)",
+    "author": "길형진",
     "license": "SIL OFL 1.1",
     "weights": [
       100,
@@ -870,17 +877,17 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/pretendard/pretendard.css",
-    "homepage": "https://github.com/orioncactus/pretendard",
-    "description": "어디서나 잘 어울리는 본문용 깔끔한 고딕 서체"
+    "homepage": "https://orioncactus.com",
+    "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
   },
   {
     "id": "riasans",
-    "name": "리아산스",
+    "name": "리아체",
     "family": "riasans",
     "category": "sans-serif",
-    "version": "1.0.0",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "RIA",
+    "author": "ttseoul.",
     "license": "SIL OFL 1.1",
     "weights": [
       400,
@@ -893,18 +900,18 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/riasans/riasans.css",
-    "homepage": "https://github.com/monodle/fontfinder-fonts1",
-    "description": "기하학적 구조와 가독성을 겸비한 산세리프 서체"
+    "homepage": "https://www.lotteriafont.com",
+    "description": "Copyright © 2025 Lotte GRS co.,ltd all right reserved."
   },
   {
     "id": "simgyungha",
-    "name": "흥국생명 심경하체",
+    "name": "심경하체",
     "family": "simgyungha",
-    "category": "handwriting",
-    "version": "1.0.0",
+    "category": "sans-serif",
+    "version": "1.000",
     "type": "self-hosted",
-    "author": "흥국생명",
-    "license": "무료 상업용 라이선스",
+    "author": "TOGETHERGROUP",
+    "license": "SIL OFL 1.1",
     "weights": [
       400
     ],
@@ -914,7 +921,7 @@
     ],
     "isVariable": false,
     "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@main/fonts/heungkuklife/simgyungha.css",
-    "homepage": "https://www.heungkuklife.co.kr",
-    "description": "흥국생명 마음글씨체 - 흥국생명 심경하체"
+    "homepage": "https://itsfont.com",
+    "description": "Heungkuk Life Insurance Co., Ltd"
   }
 ]
