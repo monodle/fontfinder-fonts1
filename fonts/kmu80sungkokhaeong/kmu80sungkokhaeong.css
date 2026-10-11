@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'kmu80haeongsans';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kmu80haeongsans.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kmu80haeongsemisans';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kmu80haeongsemisans.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kmu80sungkoksemiserif';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kmu80sungkoksemiserif.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'kmu80sungkokserif';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('./kmu80sungkokserif.woff2') format('woff2');
+}
