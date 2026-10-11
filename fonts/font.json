@@ -22,22 +22,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/11streetgothic/11streetgothic.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://www.skplanet.com",
       "metadata": {
@@ -155,7 +161,7 @@
       "id": "a2z",
       "family": "a2z",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "ko",
@@ -178,22 +184,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/a2z/a2z.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "http://scripts.sil.org/OFL",
       "metadata": {
@@ -318,22 +330,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmdohyeon.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://www.sandoll.co.kr",
       "metadata": {
@@ -476,22 +494,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmeuljiro.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://www.woowahan.com & http://www.sandoll.co.kr",
       "metadata": {
@@ -638,22 +662,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmeuljiro10yearslater.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://www.woowahan.com & http://www.sandoll.co.kr",
       "metadata": {
@@ -785,7 +815,7 @@
       "id": "bmeuljirooraeorae",
       "family": "bmeuljirooraeorae",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "ko",
@@ -800,22 +830,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmeuljirooraeorae.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          5,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://www.woowahan.com & http://www.sandoll.co.kr",
       "metadata": {
@@ -962,22 +998,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmhanna_11yrs.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -1119,22 +1161,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmhannaair.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://www.woowahan.com & http://www.sandoll.co.kr",
       "metadata": {
@@ -1281,22 +1329,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmhannapro.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://www.woowahan.com & http://www.sandoll.co.kr",
       "metadata": {
@@ -1428,7 +1482,7 @@
       "id": "bmjua",
       "family": "bmjua",
       "categories": [
-        "sans-serif"
+        "serif"
       ],
       "languages": [
         "ko",
@@ -1443,22 +1497,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmjua.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -1612,22 +1672,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmkiranghaerang.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "http://www.sandoll.co.kr",
       "metadata": {
@@ -1759,7 +1825,7 @@
       "id": "bmkkubulim",
       "family": "bmkkubulim",
       "categories": [
-        "sans-serif"
+        "serif"
       ],
       "languages": [
         "ko",
@@ -1774,22 +1840,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmkkubulim.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          5,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
       },
       "homepage": "http://www.woowahan.com",
       "metadata": {
@@ -1940,22 +2012,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmyeonsung.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "http://www.woowahan.com & http://www.sandoll.co.kr",
       "metadata": {
@@ -2087,7 +2165,7 @@
       "id": "cafe24angbanana",
       "family": "cafe24angbanana",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -2101,22 +2179,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24angbanana.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts",
       "metadata": {
@@ -2216,7 +2301,7 @@
       "id": "cafe24behappy",
       "family": "cafe24behappy",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -2230,22 +2315,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24behappy.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts",
       "metadata": {
@@ -2360,22 +2451,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24classictype-v1.1.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          8,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://cafe24corp.com",
       "metadata": {
@@ -2504,22 +2602,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24dangdanghae-v2.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          6,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://cafe24corp.com",
       "metadata": {
@@ -2648,22 +2753,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24danjunghae-v2.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://www.cafe24corp.com",
       "metadata": {
@@ -2777,7 +2889,7 @@
       "id": "cafe24decobox",
       "family": "cafe24decobox",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -2791,22 +2903,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24decobox.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts",
       "metadata": {
@@ -2906,7 +3024,7 @@
       "id": "cafe24decoline",
       "family": "cafe24decoline",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -2920,22 +3038,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24decoline.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefontswww.cafe24corp.com",
       "metadata": {
@@ -3035,7 +3159,7 @@
       "id": "cafe24decomilk",
       "family": "cafe24decomilk",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -3049,22 +3173,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24decomilk.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts",
       "metadata": {
@@ -3164,7 +3294,7 @@
       "id": "cafe24decoschool",
       "family": "cafe24decoschool",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -3178,22 +3308,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24decoschool.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts",
       "metadata": {
@@ -3293,7 +3429,7 @@
       "id": "cafe24decoshadow",
       "family": "cafe24decoshadow",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -3307,22 +3443,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24decoshadow.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts",
       "metadata": {
@@ -3422,7 +3564,7 @@
       "id": "cafe24decozoo",
       "family": "cafe24decozoo",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -3436,22 +3578,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24decozoo.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts",
       "metadata": {
@@ -3567,22 +3715,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24dongdong.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          3,
-          0,
-          6,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 3,
+          "serifStyle": 0,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://fonts.cafe24.com",
       "metadata": {
@@ -3696,7 +3851,7 @@
       "id": "cafe24lovingu",
       "family": "cafe24lovingu",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -3710,22 +3865,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24lovingu.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -3824,7 +3985,7 @@
       "id": "cafe24meongi-b-v1-0",
       "family": "cafe24meongi-b-v1.0",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -3838,22 +3999,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24meongi-b-v1.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts",
       "metadata": {
@@ -3953,7 +4120,7 @@
       "id": "cafe24meongi-w-v1-0",
       "family": "cafe24meongi-w-v1.0",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -3967,22 +4134,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24meongi-w-v1.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts",
       "metadata": {
@@ -4097,22 +4270,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24moyamoya-face-v1.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          4,
-          0,
-          10,
-          6,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 4,
+          "serifStyle": 0,
+          "weight": 10,
+          "proportion": 6,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://fonts.cafe24.com",
       "metadata": {
@@ -4241,22 +4421,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24moyamoya-regular-v1.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          4,
-          0,
-          10,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 4,
+          "serifStyle": 0,
+          "weight": 10,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://fonts.cafe24.com",
       "metadata": {
@@ -4370,7 +4557,7 @@
       "id": "cafe24nyangi-b-v1-0",
       "family": "cafe24nyangi-b-v1.0",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -4384,22 +4571,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24nyangi-b-v1.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts",
       "metadata": {
@@ -4499,7 +4692,7 @@
       "id": "cafe24nyangi-w-v1-0",
       "family": "cafe24nyangi-w-v1.0",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "en"
@@ -4513,22 +4706,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24nyangi-w-v1.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts",
       "metadata": {
@@ -4643,22 +4842,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24ohsquare-v2.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          10,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 10,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://fonts.cafe24.com",
       "metadata": {
@@ -4787,22 +4993,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24ohsquareair-v2.0.css",
       "os2": {
-        "usWeightClass": 300,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://cafe24corp.com",
       "metadata": {
@@ -4931,22 +5144,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24oneprettynight-v2.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          3,
-          0,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 3,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://cafe24corp.com",
       "metadata": {
@@ -5075,22 +5295,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24proslimair.css",
       "os2": {
-        "usWeightClass": 300,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://cafe24corp.com",
       "metadata": {
@@ -5219,22 +5446,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24proslimfit.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://cafe24corp.com",
       "metadata": {
@@ -5363,22 +5597,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24proslimmax.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://cafe24corp.com",
       "metadata": {
@@ -5507,22 +5748,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24proup.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://cafe24corp.com",
       "metadata": {
@@ -5651,22 +5899,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24shiningstar-v2.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          3,
-          0,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 3,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://fonts.cafe24.com",
       "metadata": {
@@ -5795,22 +6050,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24simplehae-v2.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://www.cafe24corp.com",
       "metadata": {
@@ -5940,22 +6202,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24ssukssuk.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          3,
-          0,
-          5,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 3,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://fonts.cafe24.com",
       "metadata": {
@@ -6084,22 +6353,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24ssurround-v2.0.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          15,
-          8,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 15,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://cafe24corp.com",
       "metadata": {
@@ -6228,22 +6504,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24ssurroundair-v1.1.css",
       "os2": {
-        "usWeightClass": 300,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          15,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 15,
+          "weight": 3,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 300,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://fonts.cafe24.com",
       "metadata": {
@@ -6372,22 +6655,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24supermagic-bold-v1.0.css",
       "os2": {
-        "usWeightClass": 700,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          3,
-          0,
-          8,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 3,
+          "serifStyle": 0,
+          "weight": 8,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 700,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://fonts.cafe24.com",
       "metadata": {
@@ -6516,22 +6806,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24supermagic-regular-v1.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          3,
-          0,
-          5,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 3,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://fonts.cafe24.com",
       "metadata": {
@@ -6660,22 +6957,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24syongsyong-v2.0.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          3,
-          0,
-          6,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 3,
+          "serifStyle": 0,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://www.cafe24corp.com",
       "metadata": {
@@ -6804,22 +7108,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cmcorkr/cmcorkr.css",
       "os2": {
-        "usWeightClass": 500,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          6,
-          3,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 500,
+        "widthClass": 5,
+        "selectionFlags": [
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -6911,22 +7221,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebshunminsaeronl.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -7030,22 +7346,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebshunminsaeronr.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -7149,22 +7471,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebshunminsaeronsb.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -7268,22 +7596,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebsjusigyeongb.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -7387,22 +7721,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebsjusigyeongl.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -7506,22 +7846,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebsjusigyeongm.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -7625,22 +7971,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebsl.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          5,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -7754,22 +8106,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebsr.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          5,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -7883,22 +8241,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebssb.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          5,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 5,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -8012,22 +8376,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/establish-retrosans/establish-retrosans.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          5,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://www.ssro.net/",
       "metadata": {
@@ -8155,7 +8525,7 @@
       "id": "freesentation",
       "family": "freesentation",
       "categories": [
-        "sans-serif"
+        "handwriting"
       ],
       "languages": [
         "ko",
@@ -8178,22 +8548,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/freesentation/freesentation.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
       },
       "homepage": "http://scripts.sil.org/OFL",
       "metadata": {
@@ -8344,22 +8721,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabia_bombaram.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -8472,22 +8855,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabia_napjakblock.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -8577,22 +8966,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabia_solmee.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 261,
-        "panose": [
-          2,
-          2,
-          6,
-          3,
-          2,
-          1,
-          1,
-          2,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 1,
+          "subclassId": 5
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 2,
+          "weight": 6,
+          "proportion": 3,
+          "contrast": 2,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 2,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "metadata": {
         "Copyright": [
@@ -8698,22 +9093,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiacheongyeon.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          5,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://freehome.gabia.com",
       "metadata": {
@@ -8832,22 +9233,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiadunn.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://font.gabia.com/",
       "metadata": {
@@ -8958,22 +9365,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiagosran.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
       },
       "homepage": "http://font.gabia.com/",
       "metadata": {
@@ -9112,22 +9525,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiaheuldot.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          5,
-          0,
-          3,
-          0,
-          0,
-          2,
-          0,
-          4
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 3,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 2,
+          "midline": 0,
+          "xHeight": 4
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://font.gabia.com/",
       "metadata": {
@@ -9232,22 +9651,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiamaeumgyeol.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://freehome.gabia.com",
       "metadata": {
@@ -9382,22 +9808,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabianull.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Installable Embedding"
       },
       "homepage": "https://font.gabia.com/",
       "metadata": {
@@ -9532,22 +9964,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiaondam.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://freehome.gabia.com",
       "metadata": {
@@ -9652,22 +10090,28 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiasai.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 8,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          0,
-          5,
-          0,
-          3,
-          0,
-          0,
-          2,
-          0,
-          4
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 0,
+          "weight": 5,
+          "proportion": 0,
+          "contrast": 3,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 2,
+          "midline": 0,
+          "xHeight": 4
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR"
+        ],
+        "embedding": "Editable Embedding"
       },
       "homepage": "https://font.gabia.com/",
       "metadata": {
@@ -9780,22 +10224,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gamtanroad/gamtanroad-b.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
@@ -9948,22 +10399,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gamtanroad/gamtanroad-d.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
@@ -10114,22 +10572,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gamtanroad/gamtanroad-g.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
@@ -10280,22 +10745,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gamtanroad/gamtanroad-t.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 4,
-        "sFamilyClass": 0,
-        "panose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 0,
+          "serifStyle": 0,
+          "weight": 0,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 0,
+          "armStyle": 0,
+          "letterform": 0,
+          "midline": 0,
+          "xHeight": 0
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Preview & Print Embedding"
       },
       "homepage": "https://itsfont.com/",
       "metadata": {
@@ -10446,22 +10918,29 @@
       "isVariable": false,
       "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gangwonstate/gangwonstate.css",
       "os2": {
-        "usWeightClass": 400,
-        "usWidthClass": 5,
-        "fsType": 0,
-        "sFamilyClass": 0,
-        "panose": [
-          2,
-          11,
-          6,
-          0,
-          0,
-          1,
-          1,
-          1,
-          1,
-          1
-        ]
+        "familyClass": {
+          "classId": 0,
+          "subclassId": 0
+        },
+        "panose": {
+          "familyType": 2,
+          "serifStyle": 11,
+          "weight": 6,
+          "proportion": 0,
+          "contrast": 0,
+          "strokeVariation": 1,
+          "armStyle": 1,
+          "letterform": 1,
+          "midline": 1,
+          "xHeight": 1
+        },
+        "weightClass": 400,
+        "widthClass": 5,
+        "selectionFlags": [
+          "REGULAR",
+          "USE_TYPO_METRICS"
+        ],
+        "embedding": "Installable Embedding"
       },
       "homepage": "https://state.gwd.go.kr",
       "metadata": {
