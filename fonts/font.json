@@ -1,14 +1,13 @@
 {
-  "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261010/fonts",
+  "nextRepo": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts2@20261011/fonts",
   "fonts": [
     {
       "id": "11streetgothic",
-      "name": "11번가고딕-Kor",
+      "name": "11번가고딕-Kor OTF",
       "family": "11street_gothic",
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "SK planet.",
       "license": "SIL OFL 1.1",
       "weights": [
         300,
@@ -20,18 +19,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/11streetgothic/11streetgothic.css",
-      "homepage": "http://www.skplanet.com",
-      "description": "SK planet."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/11streetgothic/11streetgothic.css",
+      "homepage": "http://www.skplanet.com"
     },
     {
       "id": "a2z",
-      "name": "에이투지체",
+      "name": "에이투지체 4 Regular",
       "family": "a2z",
       "category": "sans-serif",
       "version": "1.001",
       "type": "self-hosted",
-      "author": "이주임 / 라틴글립스는 Outfit 폰트를 변형하여 사용하였습니다",
       "license": "SIL OFL 1.1",
       "weights": [
         100,
@@ -49,17 +46,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/a2z/a2z.css",
-      "description": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/a2z/a2z.css",
+      "homepage": "http://scripts.sil.org/OFL"
     },
     {
       "id": "bmdohyeon",
-      "name": "배달의민족 도현",
+      "name": "배달의민족 도현 OTF",
       "family": "bmdohyeon",
-      "category": "display",
+      "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Sandoll Communications Inc.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -69,18 +65,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/bm-fonts/bmdohyeon.css",
-      "homepage": "http://www.sandoll.co.kr",
-      "description": "Sandoll Communications Inc."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmdohyeon.css",
+      "homepage": "http://www.sandoll.co.kr"
     },
     {
       "id": "bmeuljiro",
       "name": "배달의민족 을지로체",
       "family": "bmeuljiro",
-      "category": "display",
+      "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Sandoll Inc.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -90,18 +84,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/bm-fonts/bmeuljiro.css",
-      "homepage": "http://www.woowahan.com",
-      "description": "Copyright © 2019, Woowa Brothers Corporation (http://www.woowahan.com), with Reserved Font Name BM EULJIRO, BM EULJIRO TTF.\n\r\nPREAMBLE\n\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\n\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.\n\r\nThe fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\n\r\nPERMISSION & CONDITIONS\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\r\nNeither the Font Software nor any of its individual components,in Original or Modified Versions, may be sold by itself.\n\r\nOriginal or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n\r\nNo Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\n\r\nThe name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to\n\r\nacknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\n\r\nThe Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\r\nTERMINATION\n\r\nThis license becomes null and void if any of the above conditions are not met.\n\r\nDISCLAIMER\n\r\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT\n\r\nSOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmeuljiro.css",
+      "homepage": "http://www.woowahan.com & http://www.sandoll.co.kr"
     },
     {
       "id": "bmeuljiro10yearslater",
-      "name": "배민 을지로10년후체",
+      "name": "배민 을지로10년후체 OTF",
       "family": "bmeuljiro10yearslater",
-      "category": "display",
+      "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Sandoll Inc.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -111,18 +103,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/bm-fonts/bmeuljiro10yearslater.css",
-      "homepage": "http://www.woowahan.com",
-      "description": "Copyright © 2020, Woowa Brothers Corporation (http://www.woowahan.com), with Reserved Font Name BM Euljiro 10 years later, BM Euljiro 10 years later OTF.\n\r\nPREAMBLE\n\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\n\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.\n\r\nThe fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\n\r\nPERMISSION & CONDITIONS\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\r\n1. Neither the Font Software nor any of its individual components,in Original or Modified Versions, may be sold by itself.\n\r\n2. Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n\r\n3. No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\n\r\n4. The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to\n\r\nacknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\n\r\n1. The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\r\nTERMINATION\n\r\nThis license becomes null and void if any of the above conditions are not met.\n\r\nDISCLAIMER\n\r\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT\n\r\nSOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmeuljiro10yearslater.css",
+      "homepage": "http://www.woowahan.com & http://www.sandoll.co.kr"
     },
     {
       "id": "bmeuljirooraeorae",
-      "name": "배달의민족 을지로오래오래체",
+      "name": "배달의민족 을지로오래오래체 OTF",
       "family": "bmeuljirooraeorae",
-      "category": "display",
+      "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Sandoll Inc.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -132,18 +122,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/bm-fonts/bmeuljirooraeorae.css",
-      "homepage": "http://www.woowahan.com",
-      "description": "Copyright © 2021, Woowa Brothers Corporation (http://www.woowahan.com), with Reserved Font Name BM Euljiro oraeorae, BM Euljiro oraeorae OTF.\n\r\nPREAMBLE\n\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\n\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.\n\r\nThe fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\n\r\nPERMISSION & CONDITIONS\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\r\n1. Neither the Font Software nor any of its individual components,in Original or Modified Versions, may be sold by itself.\n\r\n2. Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n\r\n3. No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\n\r\n4. The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to\n\r\nacknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\n\r\n1. The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\r\nTERMINATION\n\r\nThis license becomes null and void if any of the above conditions are not met.\n\r\nDISCLAIMER\n\r\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT\n\r\nSOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmeuljirooraeorae.css",
+      "homepage": "http://www.woowahan.com & http://www.sandoll.co.kr"
     },
     {
       "id": "bmhanna-11yrs",
-      "name": "배달의민족 한나는 열한살",
+      "name": "배달의민족 한나는 열한살 OTF",
       "family": "bmhanna_11yrs",
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Woowa Brothers Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -153,18 +141,15 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/bm-fonts/bmhanna_11yrs.css",
-      "homepage": "https://www.woowahan.com",
-      "description": "Woowa Brothers Corp."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmhanna_11yrs.css"
     },
     {
       "id": "bmhannaair",
-      "name": "배달의민족 한나체 Air",
+      "name": "배달의민족 한나체 Air OTF",
       "family": "bmhannaair",
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Sandoll Communications Inc.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -174,18 +159,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/bm-fonts/bmhannaair.css",
-      "homepage": "http://www.woowahan.com",
-      "description": "배달의민족 한나체 Air의 지적 재산권은 ㈜우아한형제들에 있습니다.\n\r\n\r\n배달의민족 한나체 Air는 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며\n\r\n자유롭게 수정하고 재배포하실 수 있습니다.\n\r\n\r\nCCopyright © 2018, Woowa Brothers Corporation (http://www.woowahan.com), with Reserved Font Name BM HANNA Air_TTF, BM HANNA Air_OTF\n\r\n\r\nPREAMBLE\n\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\n\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.\n\r\nThe fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\n\r\n\r\nPERMISSION & CONDITIONS\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\r\n 1) Neither the Font Software nor any of its individual components,in Original or Modified Versions, may be sold by itself.\n\r\n 2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n\r\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\n\r\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to\n\r\nacknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\n\r\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\r\n\r\nTERMINATION\n\r\nThis license becomes null and void if any of the above conditions are not met.\n\r\n\r\nDISCLAIMER\n\r\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT\n\r\nSOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmhannaair.css",
+      "homepage": "http://www.woowahan.com & http://www.sandoll.co.kr"
     },
     {
       "id": "bmhannapro",
-      "name": "배달의민족 한나체 Pro",
+      "name": "배달의민족 한나체 Pro OTF",
       "family": "bmhannapro",
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Sandoll Communications Inc.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -195,18 +178,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/bm-fonts/bmhannapro.css",
-      "homepage": "http://www.woowahan.com",
-      "description": "배달의민족 한나체 Pro의 지적 재산권은 ㈜우아한형제들에 있습니다.\n\r\n\r\n배달의민족 한나체 Pro는 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며\n\r\n자유롭게 수정하고 재배포하실 수 있습니다.\n\r\n\r\nCopyright © 2018, Woowa Brothers Corporation (http://www.woowahan.com), with Reserved Font Name BM HANNA Pro_TTF, BM HANNA Pro_OTF\n\r\n\r\nPREAMBLE\n\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\n\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works.\n\r\nThe fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\n\r\n\r\nPERMISSION & CONDITIONS\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n\r\n 1) Neither the Font Software nor any of its individual components,in Original or Modified Versions, may be sold by itself.\n\r\n 2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n\r\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\n\r\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to\n\r\nacknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\n\r\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\r\n\r\nTERMINATION\n\r\nThis license becomes null and void if any of the above conditions are not met.\n\r\n\r\nDISCLAIMER\n\r\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT\n\r\nSOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmhannapro.css",
+      "homepage": "http://www.woowahan.com & http://www.sandoll.co.kr"
     },
     {
       "id": "bmjua",
-      "name": "배달의민족 주아",
+      "name": "배달의민족 주아 OTF",
       "family": "bmjua",
-      "category": "display",
+      "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Woowa Brothers Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -216,18 +197,15 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/bm-fonts/bmjua.css",
-      "homepage": "https://www.woowahan.com",
-      "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmjua.css"
     },
     {
       "id": "bmkiranghaerang",
-      "name": "배달의민족 기랑해랑",
+      "name": "배달의민족 기랑해랑 OTF",
       "family": "bmkiranghaerang",
-      "category": "display",
+      "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Sandoll Communications Inc.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -237,18 +215,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/bm-fonts/bmkiranghaerang.css",
-      "homepage": "http://www.sandoll.co.kr",
-      "description": "배달의민족 기랑해랑체의 지적 재산권은 ㈜우아한형제들에 있습니다.  \r\n배달의민족 기랑해랑체는 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며 자유롭게 수정하고 재배포하실 수 있습니다.  \r\n \r\n단, 글꼴 자체를 유료로 판매하는 것은 금지하며,  \r\n배달의민족 기랑해랑체는 본 저작권 안내와 라이선스 전문을 포함해서 다른 소프트웨어와 번들하거나 재배포 또는 판매가 가능합니다.  \r\n배달의민족 기랑해랑체 라이선스 전문을 포함하기 어려울 경우, 배달의민족 기랑해랑체의 출처 표기를 권장합니다.  \r\n \r\n배달의민족 기랑해랑체를 사용한 인쇄물, 광고물(온라인 포함)의 이미지는 우아한형제들(배달의민족) 프로모션을 위해 활용될 수 있습니다.  \r\n이를 원치 않는 사용자는 언제든지 당사에 요청하실 수 있습니다.  \r\n정확한 사용 조건은 아래 배달의민족 기랑해랑체 라이선스 전문을 참고하시기 바랍니다.  \r\n \r\n \r\n정의  \r\n‘폰트 소프트웨어’는 본 라이선스에 입거해 저작권자가 배포하고 명확하게 같은 표시가 된 파일들의 집합을 뜻하며, 여기에는 소스 파일, 빌드 스크립트와 문서가 이에 포함됩니다.  \r\n \r\n‘저작권이 있는 폰트명’은 저작권 정책에 따라서 지정된 이름을 말합니다.  \r\n \r\n‘원본’은 저작권자가 배포한 폰트 소프트웨어 구성요소를 의미합니다.  \r\n \r\n‘수정본’은 포맷의 변경이나 폰트 소프트웨어를 새로운 환경에 포팅시켜, 원본의 일부 혹은 전체에 추가, 삭제 대체해 만든 파생 저작물을 의미합니다. ‘저자’는 폰트 소프트웨어에 기여한 디자이너, 엔지니어, 프로그래머, 기술 전문가 등을 의미합니다.  \r\n \r\n \r\n전문  \r\n본 폰트 라이선스를 오픈 하는 것은(이하 OFL)는 전 세계 폰트 개발 프로젝트를 지원하고 학계와 언어 관련 학계의 폰트 개발을 위한 연구를 지지하기 위해서인 동시에, 폰트 제휴를 통해 폰트가 공유되고 개선될 수 있는 자유롭게 개방된 환경을 만들기 위해서 입니다.  \r\n \r\nOFL은 라이선스를 취득한 폰트가 그 자체로 판매되지 않는 한 자유롭게 사용, 연구, 수정, 재배포 하는 것을 허가합니다. 수정된 폰트를 포함한 폰트는 저작권 명이 사용되지 않는 한 기타 소프트웨어와 함께 묶이거나 삽입, 재배포 할 수 있습니다. 단 폰트와 수정된 폰트는 기타 다른 라이선스에 포함되어 배포될 수는 없습니다. 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트나 수정본을 사용하여 제작된 어떠한 문서에도 적용되지 않습니다.  \r\n \r\n허가 및 조건  \r\n본 폰트 소프트웨어를 사용하도록 허가 받은 개인/기업/단체 누구라도 다음 명시된 조건에 따라 폰트 소프트웨어의 수정 혹은 수정되지 않은 복사본을 무료로 사용, 연구, 복사, 통합, 삽입, 수정, 재배포할 수 있도록 허가합니다.  \r\n \r\n원본이나 수정본의 폰트 소프트웨어 혹은 개별 구성요소인 폰트 자체가 판매되어서는 안됩니다.  \r\n \r\n본 폰트 소프트웨어의 원본 혹은 수정본은 상기 저작권 안내와 본 라이선스에 대한 내용을 포함하는 경우에는 다른 소프트웨어와 함께 묶이거나 재배포 혹은 판매가 가능합니다. 이는 독립 텍스트 파일과 가독성이 있는 헤더 혹은 유저가 용이하게 열람 가능한 이상 텍스트파일 혹은 이진파일 내 기계가 읽을 수 있는 메타데이터 형태를 모두 의미 합니다.  \r\n \r\n본 폰트 소프트웨어의 어떠한 수정본도 동일한 저작권자가 명시적 허가서를 부여하지 않는 한 저작권이 있는 폰트명을 사용해서는 안 됩니다. 본 제한 사항은 유저들에게 제공된 기존 폰트명을 뜻합니다.  \r\n \r\n본 폰트 소프트웨어의 저작권자 혹은 저자의 이름은 그들의 명시적 서면 허가가 있거나 또는 그들의 공헌을 인정하기 위한 경우를 제외하고는 수정본에 대한 사용을 유도,추천 혹은 광고하기 위한 목적으로 사용할 수 없습니다.  \r\n \r\n본 폰트 소프트웨어는 전체나 부분, 혹은 수정 여부에 상관없이 본 라이선스 하에 배포가 되어야 하며 기타 다른 라이선스 하에서는 배포를 할 수 없습니다. 폰트에 대한 요구조건은 이 라이선스 하에서만 유효하며 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트 소프트웨어를 사용해 제작한 어떠한 문서에도 적용되지 않습니다.  \r\n \r\n \r\n계약의 종료  \r\n본 라이선스는 상기 조건 중 일부라도 부합되지 않으면 무효가 될 수 있습니다.  \r\n \r\n \r\n면책조항  \r\n본 폰트 소프트웨어는 저작권, 특허권, 상표권 및 기타 권리의 비침해성과 특정 목적에의 적합성 포함한 명시적, 묵시적인 어떠한 종류의 보증 없이 “있는 그대로” 제공됩니다. 어떠한 경우에도 저작권자는 본 폰트 소프트웨어의 사용 또는 이의 사용불가, 그밖에 폰트 소프트웨어의 취급과 관련하여 발생하는 모든 계약, 불법행위 혹은 다른 일로 하여금 발생하는 일반적, 특수적, 간접적, 부차적 혹은 필연적 손해를 포함하는 소송, 손해, 혹은 기타 책임에 대한 의무를 가지지 않습니다."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmkiranghaerang.css",
+      "homepage": "http://www.sandoll.co.kr"
     },
     {
       "id": "bmkkubulim",
       "name": "배달의민족 꾸불림",
       "family": "bmkkubulim",
-      "category": "display",
+      "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "㈜우아한형제들",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -258,18 +234,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/bm-fonts/bmkkubulim.css",
-      "homepage": "http://www.woowahan.com",
-      "description": "배달의민족 꾸불림의 지적재산권은 ㈜우아한형제들에 있습니다."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmkkubulim.css",
+      "homepage": "http://www.woowahan.com"
     },
     {
       "id": "bmyeonsung",
-      "name": "배달의민족 연성",
+      "name": "배달의민족 연성 OTF",
       "family": "bmyeonsung",
-      "category": "display",
+      "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Sandoll Communications Inc.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -279,9 +253,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/bm-fonts/bmyeonsung.css",
-      "homepage": "http://www.woowahan.com",
-      "description": "배달의민족 연성체의 지적 재산권은 ㈜우아한형제들에 있습니다.\r\n배달의민족 연성체는 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며 자유롭게 수정하고 재배포하실 수 있습니다.\r\n\r\n단, 글꼴 자체를 유료로 판매하는 것은 금지하며,\r\n배달의민족 연성체는 본 저작권 안내와 라이선스 전문을 포함해서 다른 소프트웨어와 번들하거나 재배포 또는 판매가 가능합니다.\r\n배달의민족 연성체 라이선스 전문을 포함하기 어려울 경우, 배달의민족 연성체의 출처 표기를 권장합니다.\r\n\r\n배달의민족 연성체를 사용한 인쇄물, 광고물(온라인 포함)의 이미지는 우아한형제들(배달의민족) 프로모션을 위해 활용될 수 있습니다.\r\n이를 원치 않는 사용자는 언제든지 당사에 요청하실 수 있습니다.\r\n정확한 사용 조건은 아래 배달의민족 연성체 라이선스 전문을 참고하시기 바랍니다.\r\n\r\n\r\n정의\r\n‘폰트 소프트웨어’는 본 라이선스에 입거해 저작권자가 배포하고 명확하게 같은 표시가 된 파일들의 집합을 뜻하며, 여기에는 소스 파일, 빌드 스크립트와 문서가 이에 포함됩니다.\r\n\r\n‘저작권이 있는 폰트명’은 저작권 정책에 따라서 지정된 이름을 말합니다.\r\n\r\n‘원본’은 저작권자가 배포한 폰트 소프트웨어 구성요소를 의미합니다.\r\n\r\n‘수정본’은 포맷의 변경이나 폰트 소프트웨어를 새로운 환경에 포팅시켜, 원본의 일부 혹은 전체에 추가, 삭제 대체해 만든 파생 저작물을 의미합니다. ‘저자’는 폰트 소프트웨어에 기여한 디자이너, 엔지니어, 프로그래머, 기술 전문가 등을 의미합니다.\r\n\r\n\r\n전문\r\n본 폰트 라이선스를 오픈 하는 것은(이하 OFL)는 전 세계 폰트 개발 프로젝트를 지원하고 학계와 언어 관련 학계의 폰트 개발을 위한 연구를 지지하기 위해서인 동시에, 폰트 제휴를 통해 폰트가 공유되고 개선될 수 있는 자유롭게 개방된 환경을 만들기 위해서 입니다.\r\n\r\nOFL은 라이선스를 취득한 폰트가 그 자체로 판매되지 않는 한 자유롭게 사용, 연구, 수정, 재배포 하는 것을 허가합니다. 수정된 폰트를 포함한 폰트는 저작권 명이 사용되지 않는 한 기타 소프트웨어와 함께 묶이거나 삽입, 재배포 할 수 있습니다. 단 폰트와 수정된 폰트는 기타 다른 라이선스에 포함되어 배포될 수는 없습니다. 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트나 수정본을 사용하여 제작된 어떠한 문서에도 적용되지 않습니다.\r\n\r\n허가 및 조건\r\n본 폰트 소프트웨어를 사용하도록 허가 받은 개인/기업/단체 누구라도 다음 명시된 조건에 따라 폰트 소프트웨어의 수정 혹은 수정되지 않은 복사본을 무료로 사용, 연구, 복사, 통합, 삽입, 수정, 재배포할 수 있도록 허가합니다.\r\n\r\n원본이나 수정본의 폰트 소프트웨어 혹은 개별 구성요소인 폰트 자체가 판매되어서는 안됩니다.\r\n\r\n본 폰트 소프트웨어의 원본 혹은 수정본은 상기 저작권 안내와 본 라이선스에 대한 내용을 포함하는 경우에는 다른 소프트웨어와 함께 묶이거나 재배포 혹은 판매가 가능합니다. 이는 독립 텍스트 파일과 가독성이 있는 헤더 혹은 유저가 용이하게 열람 가능한 이상 텍스트파일 혹은 이진파일 내 기계가 읽을 수 있는 메타데이터 형태를 모두 의미 합니다.\r\n\r\n본 폰트 소프트웨어의 어떠한 수정본도 동일한 저작권자가 명시적 허가서를 부여하지 않는 한 저작권이 있는 폰트명을 사용해서는 안 됩니다. 본 제한 사항은 유저들에게 제공된 기존 폰트명을 뜻합니다.\r\n\r\n본 폰트 소프트웨어의 저작권자 혹은 저자의 이름은 그들의 명시적 서면 허가가 있거나 또는 그들의 공헌을 인정하기 위한 경우를 제외하고는 수정본에 대한 사용을 유도,추천 혹은 광고하기 위한 목적으로 사용할 수 없습니다.\r\n\r\n본 폰트 소프트웨어는 전체나 부분, 혹은 수정 여부에 상관없이 본 라이선스 하에 배포가 되어야 하며 기타 다른 라이선스 하에서는 배포를 할 수 없습니다. 폰트에 대한 요구조건은 이 라이선스 하에서만 유효하며 이 라이선스 하에 있기 위한 폰트에 대한 요구사항은 본 폰트 소프트웨어를 사용해 제작한 어떠한 문서에도 적용되지 않습니다.\r\n\r\n\r\n계약의 종료\r\n본 라이선스는 상기 조건 중 일부라도 부합되지 않으면 무효가 될 수 있습니다.\r\n\r\n\r\n면책조항\r\n본 폰트 소프트웨어는 저작권, 특허권, 상표권 및 기타 권리의 비침해성과 특정 목적에의 적합성 포함한 명시적, 묵시적인 어떠한 종류의 보증 없이 “있는 그대로” 제공됩니다. 어떠한 경우에도 저작권자는 본 폰트 소프트웨어의 사용 또는 이의 사용불가, 그밖에 폰트 소프트웨어의 취급과 관련하여 발생하는 모든 계약, 불법행위 혹은 다른 일로 하여금 발생하는 일반적, 특수적, 간접적, 부차적 혹은 필연적 손해를 포함하는 소송, 손해, 혹은 기타 책임에 대한 의무를 가지지 않습니다."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/bm-fonts/bmyeonsung.css",
+      "homepage": "http://www.woowahan.com & http://www.sandoll.co.kr"
     },
     {
       "id": "cafe24angbanana",
@@ -290,19 +263,16 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24angbanana.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "???°¿????????(??)?? ??????? \"Cafe24_Angbanana\"?? SIL OPEN FONT LICENSE(Version 1.1)?? ???? ????? ??????.\n\n\"Cafe24_Angbanana\"?? ???? ?????? ???°¿????????(??)?? ??????.  \n\"Cafe24_Angbanana\"?? ???? ?? ??? ?????? ?????? ??? ???????? ????? ??????? ??????? ??????? ??????? ?? ??????. \n??, ??? ??u?? ????? ?????? ???? ??????? ?? ????? ????? ??????? ?????? ??????? ??? ?????????? ???????? ????? ??? ???? ????????.\n??????? ?????? ??????? ????? ???, ??o ??? ????????.\n??) ?? ?????????? ???°¿????????(??)?? ?????? \"Cafe24_Angbanana\"?? ?????? ??????.\n\"Cafe24_Angbanana\"?? ???? ?•Ï?, ?????(?¢“??? ????)?? ??????? Cafe24_Angbanana\"?? ???•Ë???? ???? ???? ?? ??????.\n??? ??? ??? ?????? ???????? ??›˝ ??u??? ?? ??????.\n\n????? ??? ?????? ????? SIL OPEN FONT LICENSE ?????? ??????n? ??????.\n\n=========================================================\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n=========================================================\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives. \n\nPERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\n1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\n2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are not met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED ??AS IS??, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.\n\n======================================================================\n\n* ?????? SIL OPEN FONT LICENSE ?????? ???????? ????? ???? ???? ?????? ???? ????? ?????? ??????. \n\nPREAMBLE (????)\n????? ??????????? ?? ????????? ????? ???????? ??????? ?????? ???? ??©£? ?? ??????? ?????? ?????, ?????? ??? ????, ??? ???????? ?????? ??? ???????. \n????????? ??? ???????? ????? ??a?? ???? ?????? ????? ??????. \n?????????? ???????? ?????? ??? ????????? ???????? ???????. \n???????????? ?????? ??????? ??? ????????? ???•Ô? ??Î° ???y???, ?????? ??? ??? ??u?? ???, ???? ??u?? ???? ??? ??????? ???????.\n????????? ??? ????????? ???? ???????, ???????, ???•·????, ??? ?????? ???? ???????.\n\nPERMISSION & CONDITIONS (?? ?? ????)\n?? ??? ????????? ???????? ?? ???? ????/???/??u ?????? ???? ??o? ????? ???? ??? ??????????? ???? ??? ???????? ???? ?????? ????? ???, ????, ????, ????, ????, ????, ??????? ?? ????? ??????.  \n1) ??????? ???????? ??? ????????? ??? ???? ????????? ??? ??u?? ??????? ?????.\n2) ?? ??? ??????????? ???? ??? ???????? ??? ????? ????? ?? ????????? ???? ?????? ??????? ??ƒÓ?? ??? ?????????? ??? ?????? ????? ??? ???? ????????. ??? ???? ???? ????? ???????? ??? ??? ??? ?????? ??????? ???? ?????? ??? ???????? ??? ???????? ?? ??? ???? ?? ??? ????????? ???¢¨? ??? ??? ????.  \n3) ?? ??? ??????????? ???? ???????? ?????? ???????? ????? ?????? ?•Ô????? ??? ?? ??????? ??? ??????? ???????? ?? ????. ?? ???? ?????? ???????? ?????? ???? ??????? ??????.\n4) ?? ??? ??????????? ??????? ??? ?????? ????? ????? ????? ???? ???? ???? ??? ????? ?????? ??????? ???? ??? ???????? ???????? ???? ????? ????,??o ??? ??????? ???? ???????? ????? ?? ???????.  \n5) ?? ??? ?????????? ??u?? ?•Í?, ??? ???? ???•Ô? ??????? ?? ??????? ??? ?????? ???? ??? ??? ??? ??????? ??????? ?????? ?? ?? ???????. ????? ???? ???????? ?? ??????? ??????? ?????? ?? ??????? ??? ??? ???? ????? ???? ???????? ?? ??? ????????? ????? ?????? ???? ???????? ??????? ??????.\n\nTERMINATION (????? ????)\n?? ????????? ??? ???? ?? ??•Ê? ??????? ?????? ????? ?? ?? ??????.\n\nDISCLAIMER (??a????)\n?? ??? ?????????? ?????, ????, ????? ?? ??? ????? ??©§????? ??? ???????? ????? ?????? ?????, ???????? ???? ?????? ???? ???? ????? ???•—? ????????. ???? ??ƒÓ?? ???????? ?? ??? ??????????? ??? ??? ???? ?????, ???? ??? ??????????? ???? ??????? ?????? ??? ???, ??????? ??? ??? ??? ????? ?????? ?????, ?????, ??????, ?????? ??? ????? ????? ??????? ???, ????, ??? ??? a??? ???? ????? ?????? ??????."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24angbanana.css",
+      "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts"
     },
     {
       "id": "cafe24behappy",
@@ -311,28 +281,24 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24behappy.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "ī��24(��)�� �����ϴ� \"Cafe24 Behappy\"�� SIL OPEN FONT LICENSE(Version 1.1)�� ���� ����� �㰡�˴ϴ�.\"Cafe24 Behappy\"�� ���� ������ ī��24(��)�� �ֽ��ϴ�.\"Cafe24 Behappy\"�� ���� �� ��� ����ڸ� ������ ��� ����ڿ��� ����� �����Ǹ� �����Ӱ� �����ϰ� ������� �� �ֽ��ϴ�.��, �۲� ��ü�� ����� �Ǹ��ϴ� ���� �����ϸ� �� ���۱� �ȳ��� ���̼��� ������ �����ؼ� �ٸ� ����Ʈ����� �����ϰų� ����� �Ǵ� �ǸŰ� �����մϴ�.���̼��� ������ �����ϱ� ����� ���, ��ó ǥ�⸦ �����մϴ�.��) �� ���������� ī��24(��)�� ������ \"Cafe24 Behappy\"�� ����Ǿ� �ֽ��ϴ�.\"Cafe24 Behappy\"�� ���� �μ⹰, ������(�¶��� ����)�� �̹�����\"Cafe24 Behappy\"�� ���θ���� ���� Ȱ��� �� �ֽ��ϴ�.�̸� ��ġ �ʴ� ����ڴ� �������� ��翡 ��û�Ͻ� �� �ֽ��ϴ�.��Ȯ�� ��� ������ �Ʒ��� SIL OPEN FONT LICENSE ������ �����Ͻñ� �ٶ��ϴ�.=========================================================SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007=========================================================PREAMBLEThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.PERMISSION & CONDITIONSPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.TERMINATIONThis license becomes null and void if any of the above conditions are not met.DISCLAIMERTHE FONT SOFTWARE IS PROVIDED ��AS IS��, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.======================================================================* ������ SIL OPEN FONT LICENSE ������ �̿��ڵ��� ���ظ� ���� ���� ������ ���� ȿ���� ������ ���մϴ�.PREAMBLE (����)����Ʈ ����Ʈ����� �� ���̼����� �԰��� ���۱��ڰ� �����ϰ� ��Ȯ�ϰ� ���� ǥ�ð� �� ���ϵ��� ������ ���ϸ�, ���⿡�� �ҽ� ����, ���� ��ũ��Ʈ�� ������ �̿� ���Ե˴ϴ�.�����۱��� �ִ� ��Ʈ������ ���۱� ��å�� ���� ������ �̸��� ���մϴ�.���������� ���۱��ڰ� ������ ��Ʈ ����Ʈ���� ������Ҹ� �ǹ��մϴ�.������������ ������ �����̳� ��Ʈ ����Ʈ��� ���ο� ȯ�濡 ���ý���, ������ �Ϻ� Ȥ�� ��ü�� �߰�, ���� ��ü�� ���� �Ļ� ���۹��� �ǹ��մϴ�.�����ڡ��� ��Ʈ ����Ʈ��� �⿩�� �����̳�, �����Ͼ�, ���α׷���, ��� ������ ���� �ǹ��մϴ�.PERMISSION & CONDITIONS (�㰡 �� ����)�� ��Ʈ ����Ʈ��� ����ϵ��� �㰡 ���� ����/���/��ü ������ ���� ���õ� ���ǿ� ���� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ���� ���纻�� ����� ���, ����, ����, ����, ����, ����, ������� �� �ֵ��� �㰡�մϴ�.1) �����̳� �������� ��Ʈ ����Ʈ���� Ȥ�� ���� ��������� ��Ʈ ��ü�� �ǸŵǾ�� �ȵ˴ϴ�.2) �� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ��� ���۱� �ȳ��� �� ���̼����� ���� ������ �����ϴ� ��쿡�� �ٸ� ����Ʈ����� �Բ� ���̰ų� ����� Ȥ�� �ǸŰ� �����մϴ�. �̴� ���� �ؽ�Ʈ ���ϰ� �������� �ִ� ��� Ȥ�� ������ �����ϰ� ���� ������ �̻� �ؽ�Ʈ���� Ȥ�� �������� �� ��谡 ���� �� �ִ� ��Ÿ������ ���¸� ��� �ǹ� �մϴ�.3) �� ��Ʈ ����Ʈ������ ��� �������� ������ ���۱��ڰ� ������ �㰡���� �ο����� �ʴ� �� ���۱��� �ִ� ��Ʈ���� ����ؼ��� �� �˴ϴ�. �� ���� ������ �����鿡�� ������ ���� ��Ʈ���� ���մϴ�.4) �� ��Ʈ ����Ʈ������ ���۱��� Ȥ�� ������ �̸��� �׵��� ������ ���� �㰡�� �ְų� �Ǵ� �׵��� ������ �����ϱ� ���� ��츦 �����ϰ��� �������� ���� ����� ����,��õ Ȥ�� �����ϱ� ���� �������� ����� �� �����ϴ�.5) �� ��Ʈ ����Ʈ����� ��ü�� �κ�, Ȥ�� ���� ���ο� ������� �� ���̼��� �Ͽ� ������ �Ǿ�� �ϸ� ��Ÿ �ٸ� ���̼��� �Ͽ����� ������ �� �� �����ϴ�. ��Ʈ�� ���� �䱸������ �� ���̼��� �Ͽ����� ��ȿ�ϸ� �� ���̼��� �Ͽ� �ֱ� ���� ��Ʈ�� ���� �䱸������ �� ��Ʈ ����Ʈ��� ����� ������ ��� �������� ������� �ʽ��ϴ�.TERMINATION (����� ����)�� ���̼����� ��� ���� �� �Ϻζ� ���յ��� ������ ��ȿ�� �� �� �ֽ��ϴ�.DISCLAIMER (��å����)�� ��Ʈ ����Ʈ����� ���۱�, Ư���, ��ǥ�� �� ��Ÿ �Ǹ��� ��ħ�ؼ��� Ư�� �������� ���ռ� ������ ������, �������� ��� ������ ���� ���� ���ִ� �״�Ρ� �����˴ϴ�. ��� ��쿡�� ���۱��ڴ� �� ��Ʈ ����Ʈ������ ��� �Ǵ� ���� ���Ұ�, �׹ۿ� ��Ʈ ����Ʈ������ ��ް� �����Ͽ� �߻��ϴ� ��� ���, �ҹ����� Ȥ�� �ٸ� �Ϸ� �Ͽ��� �߻��ϴ� �Ϲ���, Ư����, ������, ������ Ȥ�� �ʿ��� ���ظ� �����ϴ� �Ҽ�, ����, Ȥ�� ��Ÿ å�ӿ� ���� �ǹ��� ������ �ʽ��ϴ�."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24behappy.css",
+      "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts"
     },
     {
       "id": "cafe24classictype-v1-1",
-      "name": "카페24 클래식타입",
+      "name": "Cafe24 ClassicType",
       "family": "cafe24classictype-v1.1",
       "category": "sans-serif",
       "version": "1.001",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -342,18 +308,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24classictype-v1.1.css",
-      "homepage": "https://cafe24corp.com",
-      "description": "Copyright ⓒ Cafe24 Corp. All Rights Reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24classictype-v1.1.css",
+      "homepage": "https://cafe24corp.com"
     },
     {
       "id": "cafe24dangdanghae-v2-0",
-      "name": "카페24 당당해",
+      "name": "Cafe24 Dangdanghae",
       "family": "cafe24dangdanghae-v2.0",
       "category": "sans-serif",
       "version": "2.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -363,18 +327,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24dangdanghae-v2.0.css",
-      "homepage": "https://cafe24corp.com",
-      "description": "Copyright (c) 2018 by cafe24. All rights reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24dangdanghae-v2.0.css",
+      "homepage": "https://cafe24corp.com"
     },
     {
       "id": "cafe24danjunghae-v2-0",
-      "name": "카페24 단정해",
+      "name": "Cafe24 Danjunghae",
       "family": "cafe24danjunghae-v2.0",
       "category": "sans-serif",
       "version": "2.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -384,9 +346,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24danjunghae-v2.0.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "Copyright © Cafe24 Corp. All Rights Reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24danjunghae-v2.0.css",
+      "homepage": "https://www.cafe24corp.com"
     },
     {
       "id": "cafe24decobox",
@@ -395,19 +356,16 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24decobox.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "ī��24(��)�� �����ϴ� \"Cafe24 Decobox\"�� SIL OPEN FONT LICENSE(Version 1.1)�� ���� ����� �㰡�˴ϴ�.\r\n\r\n\"Cafe24 Decobox\"�� ���� ������ ī��24(��)�� �ֽ��ϴ�.  \r\n\"Cafe24 Decobox\"�� ���� �� ��� ����ڸ� ������ ��� ����ڿ��� ����� �����Ǹ� �����Ӱ� �����ϰ� ������� �� �ֽ��ϴ�. \r\n��, �۲� ��ü�� ����� �Ǹ��ϴ� ���� �����ϸ� �� ���۱� �ȳ��� ���̼��� ������ �����ؼ� �ٸ� ����Ʈ����� �����ϰų� ����� �Ǵ� �ǸŰ� �����մϴ�.\r\n���̼��� ������ �����ϱ� ����� ���, ��ó ǥ�⸦ �����մϴ�.\r\n��) �� ���������� ī��24(��)�� ������ \"Cafe24 Decobox\"�� ����Ǿ� �ֽ��ϴ�.\r\n\"Cafe24 Decobox\"�� ���� �μ⹰, ������(�¶��� ����)�� �̹�����\"Cafe24 Decobox\"�� ���θ���� ���� Ȱ��� �� �ֽ��ϴ�.\r\n�̸� ��ġ �ʴ� ����ڴ� �������� ��翡 ��û�Ͻ� �� �ֽ��ϴ�.\r\n\r\n��Ȯ�� ��� ������ �Ʒ��� SIL OPEN FONT LICENSE ������ �����Ͻñ� �ٶ��ϴ�.\r\n\r\n=========================================================\r\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\r\n=========================================================\r\n\r\nPREAMBLE\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives. \r\n\r\nPERMISSION & CONDITIONS\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\r\n1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\r\n2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\r\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\r\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\r\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\r\n\r\nTERMINATION\r\nThis license becomes null and void if any of the above conditions are not met.\r\n\r\nDISCLAIMER\r\nTHE FONT SOFTWARE IS PROVIDED ��AS IS��, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.\r\n\r\n======================================================================\r\n\r\n* ������ SIL OPEN FONT LICENSE ������ �̿��ڵ��� ���ظ� ���� ���� ������ ���� ȿ���� ������ ���մϴ�. \r\n\r\nPREAMBLE (����)\r\n����Ʈ ����Ʈ����� �� ���̼����� �԰��� ���۱��ڰ� �����ϰ� ��Ȯ�ϰ� ���� ǥ�ð� �� ���ϵ��� ������ ���ϸ�, ���⿡�� �ҽ� ����, ���� ��ũ��Ʈ�� ������ �̿� ���Ե˴ϴ�. \r\n�����۱��� �ִ� ��Ʈ������ ���۱� ��å�� ���� ������ �̸��� ���մϴ�. \r\n���������� ���۱��ڰ� ������ ��Ʈ ����Ʈ���� ������Ҹ� �ǹ��մϴ�. \r\n������������ ������ �����̳� ��Ʈ ����Ʈ��� ���ο� ȯ�濡 ���ý���, ������ �Ϻ� Ȥ�� ��ü�� �߰�, ���� ��ü�� ���� �Ļ� ���۹��� �ǹ��մϴ�.\r\n�����ڡ��� ��Ʈ ����Ʈ��� �⿩�� �����̳�, �����Ͼ�, ���α׷���, ��� ������ ���� �ǹ��մϴ�.\r\n\r\nPERMISSION & CONDITIONS (�㰡 �� ����)\r\n�� ��Ʈ ����Ʈ��� ����ϵ��� �㰡 ���� ����/���/��ü ������ ���� ���õ� ���ǿ� ���� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ���� ���纻�� ����� ���, ����, ����, ����, ����, ����, ������� �� �ֵ��� �㰡�մϴ�.  \r\n1) �����̳� �������� ��Ʈ ����Ʈ���� Ȥ�� ���� ��������� ��Ʈ ��ü�� �ǸŵǾ�� �ȵ˴ϴ�.\r\n2) �� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ��� ���۱� �ȳ��� �� ���̼����� ���� ������ �����ϴ� ��쿡�� �ٸ� ����Ʈ����� �Բ� ���̰ų� ����� Ȥ�� �ǸŰ� �����մϴ�. �̴� ���� �ؽ�Ʈ ���ϰ� �������� �ִ� ��� Ȥ�� ������ �����ϰ� ���� ������ �̻� �ؽ�Ʈ���� Ȥ�� �������� �� ��谡 ���� �� �ִ� ��Ÿ������ ���¸� ��� �ǹ� �մϴ�.  \r\n3) �� ��Ʈ ����Ʈ������ ��� �������� ������ ���۱��ڰ� ������ �㰡���� �ο����� �ʴ� �� ���۱��� �ִ� ��Ʈ���� ����ؼ��� �� �˴ϴ�. �� ���� ������ �����鿡�� ������ ���� ��Ʈ���� ���մϴ�.\r\n4) �� ��Ʈ ����Ʈ������ ���۱��� Ȥ�� ������ �̸��� �׵��� ������ ���� �㰡�� �ְų� �Ǵ� �׵��� ������ �����ϱ� ���� ��츦 �����ϰ��� �������� ���� ����� ����,��õ Ȥ�� �����ϱ� ���� �������� ����� �� �����ϴ�.  \r\n5) �� ��Ʈ ����Ʈ����� ��ü�� �κ�, Ȥ�� ���� ���ο� ������� �� ���̼��� �Ͽ� ������ �Ǿ�� �ϸ� ��Ÿ �ٸ� ���̼��� �Ͽ����� ������ �� �� �����ϴ�. ��Ʈ�� ���� �䱸������ �� ���̼��� �Ͽ����� ��ȿ�ϸ� �� ���̼��� �Ͽ� �ֱ� ���� ��Ʈ�� ���� �䱸������ �� ��Ʈ ����Ʈ��� ����� ������ ��� �������� ������� �ʽ��ϴ�.\r\n\r\nTERMINATION (����� ����)\r\n�� ���̼����� ��� ���� �� �Ϻζ� ���յ��� ������ ��ȿ�� �� �� �ֽ��ϴ�.\r\n\r\nDISCLAIMER (��å����)\r\n�� ��Ʈ ����Ʈ����� ���۱�, Ư���, ��ǥ�� �� ��Ÿ �Ǹ��� ��ħ�ؼ��� Ư�� �������� ���ռ� ������ ������, �������� ��� ������ ���� ���� ���ִ� �״�Ρ� �����˴ϴ�. ��� ��쿡�� ���۱��ڴ� �� ��Ʈ ����Ʈ������ ��� �Ǵ� ���� ���Ұ�, �׹ۿ� ��Ʈ ����Ʈ������ ��ް� �����Ͽ� �߻��ϴ� ��� ���, �ҹ����� Ȥ�� �ٸ� �Ϸ� �Ͽ��� �߻��ϴ� �Ϲ���, Ư����, ������, ������ Ȥ�� �ʿ��� ���ظ� �����ϴ� �Ҽ�, ����, Ȥ�� ��Ÿ å�ӿ� ���� �ǹ��� ������ �ʽ��ϴ�."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24decobox.css",
+      "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts"
     },
     {
       "id": "cafe24decoline",
@@ -416,19 +374,16 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24decoline.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "ī��24(��)�� �����ϴ� \"Cafe24 Decoline\"�� SIL OPEN FONT LICENSE(Version 1.1)�� ���� ����� �㰡�˴ϴ�.\r\n\r\n\"Cafe24 Decoline\"�� ���� ������ ī��24(��)�� �ֽ��ϴ�.  \r\n\"Cafe24 Decoline\"�� ���� �� ��� ����ڸ� ������ ��� ����ڿ��� ����� �����Ǹ� �����Ӱ� �����ϰ� ������� �� �ֽ��ϴ�. \r\n��, �۲� ��ü�� ����� �Ǹ��ϴ� ���� �����ϸ� �� ���۱� �ȳ��� ���̼��� ������ �����ؼ� �ٸ� ����Ʈ����� �����ϰų� ����� �Ǵ� �ǸŰ� �����մϴ�.\r\n���̼��� ������ �����ϱ� ����� ���, ��ó ǥ�⸦ �����մϴ�.\r\n��) �� ���������� ī��24(��)�� ������ \"Cafe24 Decoline\"�� ����Ǿ� �ֽ��ϴ�.\r\n\"Cafe24 Decoline\"�� ���� �μ⹰, ������(�¶��� ����)�� �̹�����\"Cafe24 Decoline\"�� ���θ���� ���� Ȱ��� �� �ֽ��ϴ�.\r\n�̸� ��ġ �ʴ� ����ڴ� �������� ��翡 ��û�Ͻ� �� �ֽ��ϴ�.\r\n\r\n��Ȯ�� ��� ������ �Ʒ��� SIL OPEN FONT LICENSE ������ �����Ͻñ� �ٶ��ϴ�.\r\n\r\n=========================================================\r\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\r\n=========================================================\r\n\r\nPREAMBLE\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives. \r\n\r\nPERMISSION & CONDITIONS\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\r\n1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\r\n2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\r\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\r\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\r\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\r\n\r\nTERMINATION\r\nThis license becomes null and void if any of the above conditions are not met.\r\n\r\nDISCLAIMER\r\nTHE FONT SOFTWARE IS PROVIDED ��AS IS��, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.\r\n\r\n======================================================================\r\n\r\n* ������ SIL OPEN FONT LICENSE ������ �̿��ڵ��� ���ظ� ���� ���� ������ ���� ȿ���� ������ ���մϴ�. \r\n\r\nPREAMBLE (����)\r\n����Ʈ ����Ʈ����� �� ���̼����� �԰��� ���۱��ڰ� �����ϰ� ��Ȯ�ϰ� ���� ǥ�ð� �� ���ϵ��� ������ ���ϸ�, ���⿡�� �ҽ� ����, ���� ��ũ��Ʈ�� ������ �̿� ���Ե˴ϴ�. \r\n�����۱��� �ִ� ��Ʈ������ ���۱� ��å�� ���� ������ �̸��� ���մϴ�. \r\n���������� ���۱��ڰ� ������ ��Ʈ ����Ʈ���� ������Ҹ� �ǹ��մϴ�. \r\n������������ ������ �����̳� ��Ʈ ����Ʈ��� ���ο� ȯ�濡 ���ý���, ������ �Ϻ� Ȥ�� ��ü�� �߰�, ���� ��ü�� ���� �Ļ� ���۹��� �ǹ��մϴ�.\r\n�����ڡ��� ��Ʈ ����Ʈ��� �⿩�� �����̳�, �����Ͼ�, ���α׷���, ��� ������ ���� �ǹ��մϴ�.\r\n\r\nPERMISSION & CONDITIONS (�㰡 �� ����)\r\n�� ��Ʈ ����Ʈ��� ����ϵ��� �㰡 ���� ����/���/��ü ������ ���� ���õ� ���ǿ� ���� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ���� ���纻�� ����� ���, ����, ����, ����, ����, ����, ������� �� �ֵ��� �㰡�մϴ�.  \r\n1) �����̳� �������� ��Ʈ ����Ʈ���� Ȥ�� ���� ��������� ��Ʈ ��ü�� �ǸŵǾ�� �ȵ˴ϴ�.\r\n2) �� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ��� ���۱� �ȳ��� �� ���̼����� ���� ������ �����ϴ� ��쿡�� �ٸ� ����Ʈ����� �Բ� ���̰ų� ����� Ȥ�� �ǸŰ� �����մϴ�. �̴� ���� �ؽ�Ʈ ���ϰ� �������� �ִ� ��� Ȥ�� ������ �����ϰ� ���� ������ �̻� �ؽ�Ʈ���� Ȥ�� �������� �� ��谡 ���� �� �ִ� ��Ÿ������ ���¸� ��� �ǹ� �մϴ�.  \r\n3) �� ��Ʈ ����Ʈ������ ��� �������� ������ ���۱��ڰ� ������ �㰡���� �ο����� �ʴ� �� ���۱��� �ִ� ��Ʈ���� ����ؼ��� �� �˴ϴ�. �� ���� ������ �����鿡�� ������ ���� ��Ʈ���� ���մϴ�.\r\n4) �� ��Ʈ ����Ʈ������ ���۱��� Ȥ�� ������ �̸��� �׵��� ������ ���� �㰡�� �ְų� �Ǵ� �׵��� ������ �����ϱ� ���� ��츦 �����ϰ��� �������� ���� ����� ����,��õ Ȥ�� �����ϱ� ���� �������� ����� �� �����ϴ�.  \r\n5) �� ��Ʈ ����Ʈ����� ��ü�� �κ�, Ȥ�� ���� ���ο� ������� �� ���̼��� �Ͽ� ������ �Ǿ�� �ϸ� ��Ÿ �ٸ� ���̼��� �Ͽ����� ������ �� �� �����ϴ�. ��Ʈ�� ���� �䱸������ �� ���̼��� �Ͽ����� ��ȿ�ϸ� �� ���̼��� �Ͽ� �ֱ� ���� ��Ʈ�� ���� �䱸������ �� ��Ʈ ����Ʈ��� ����� ������ ��� �������� ������� �ʽ��ϴ�.\r\n\r\nTERMINATION (����� ����)\r\n�� ���̼����� ��� ���� �� �Ϻζ� ���յ��� ������ ��ȿ�� �� �� �ֽ��ϴ�.\r\n\r\nDISCLAIMER (��å����)\r\n�� ��Ʈ ����Ʈ����� ���۱�, Ư���, ��ǥ�� �� ��Ÿ �Ǹ��� ��ħ�ؼ��� Ư�� �������� ���ռ� ������ ������, �������� ��� ������ ���� ���� ���ִ� �״�Ρ� �����˴ϴ�. ��� ��쿡�� ���۱��ڴ� �� ��Ʈ ����Ʈ������ ��� �Ǵ� ���� ���Ұ�, �׹ۿ� ��Ʈ ����Ʈ������ ��ް� �����Ͽ� �߻��ϴ� ��� ���, �ҹ����� Ȥ�� �ٸ� �Ϸ� �Ͽ��� �߻��ϴ� �Ϲ���, Ư����, ������, ������ Ȥ�� �ʿ��� ���ظ� �����ϴ� �Ҽ�, ����, Ȥ�� ��Ÿ å�ӿ� ���� �ǹ��� ������ �ʽ��ϴ�."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24decoline.css",
+      "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefontswww.cafe24corp.com"
     },
     {
       "id": "cafe24decomilk",
@@ -437,19 +392,16 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24decomilk.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "ī��24(��)�� �����ϴ� \"Cafe24 Decomilk\"�� SIL OPEN FONT LICENSE(Version 1.1)�� ���� ����� �㰡�˴ϴ�.\r\n\r\n\"Cafe24 Decomilk\"�� ���� ������ ī��24(��)�� �ֽ��ϴ�.  \r\n\"Cafe24 Decomilk\"�� ���� �� ��� ����ڸ� ������ ��� ����ڿ��� ����� �����Ǹ� �����Ӱ� �����ϰ� ������� �� �ֽ��ϴ�. \r\n��, �۲� ��ü�� ����� �Ǹ��ϴ� ���� �����ϸ� �� ���۱� �ȳ��� ���̼��� ������ �����ؼ� �ٸ� ����Ʈ����� �����ϰų� ����� �Ǵ� �ǸŰ� �����մϴ�.\r\n���̼��� ������ �����ϱ� ����� ���, ��ó ǥ�⸦ �����մϴ�.\r\n��) �� ���������� ī��24(��)�� ������ \"Cafe24 Decomilk\"�� ����Ǿ� �ֽ��ϴ�.\r\n\"Cafe24 Decomilk\"�� ���� �μ⹰, ������(�¶��� ����)�� �̹�����\"Cafe24 Decomilk\"�� ���θ���� ���� Ȱ��� �� �ֽ��ϴ�.\r\n�̸� ��ġ �ʴ� ����ڴ� �������� ��翡 ��û�Ͻ� �� �ֽ��ϴ�.\r\n\r\n��Ȯ�� ��� ������ �Ʒ��� SIL OPEN FONT LICENSE ������ �����Ͻñ� �ٶ��ϴ�.\r\n\r\n=========================================================\r\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\r\n=========================================================\r\n\r\nPREAMBLE\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives. \r\n\r\nPERMISSION & CONDITIONS\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\r\n1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\r\n2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\r\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\r\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\r\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\r\n\r\nTERMINATION\r\nThis license becomes null and void if any of the above conditions are not met.\r\n\r\nDISCLAIMER\r\nTHE FONT SOFTWARE IS PROVIDED ��AS IS��, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.\r\n\r\n======================================================================\r\n\r\n* ������ SIL OPEN FONT LICENSE ������ �̿��ڵ��� ���ظ� ���� ���� ������ ���� ȿ���� ������ ���մϴ�. \r\n\r\nPREAMBLE (����)\r\n����Ʈ ����Ʈ����� �� ���̼����� �԰��� ���۱��ڰ� �����ϰ� ��Ȯ�ϰ� ���� ǥ�ð� �� ���ϵ��� ������ ���ϸ�, ���⿡�� �ҽ� ����, ���� ��ũ��Ʈ�� ������ �̿� ���Ե˴ϴ�. \r\n�����۱��� �ִ� ��Ʈ������ ���۱� ��å�� ���� ������ �̸��� ���մϴ�. \r\n���������� ���۱��ڰ� ������ ��Ʈ ����Ʈ���� ������Ҹ� �ǹ��մϴ�. \r\n������������ ������ �����̳� ��Ʈ ����Ʈ��� ���ο� ȯ�濡 ���ý���, ������ �Ϻ� Ȥ�� ��ü�� �߰�, ���� ��ü�� ���� �Ļ� ���۹��� �ǹ��մϴ�.\r\n�����ڡ��� ��Ʈ ����Ʈ��� �⿩�� �����̳�, �����Ͼ�, ���α׷���, ��� ������ ���� �ǹ��մϴ�.\r\n\r\nPERMISSION & CONDITIONS (�㰡 �� ����)\r\n�� ��Ʈ ����Ʈ��� ����ϵ��� �㰡 ���� ����/���/��ü ������ ���� ���õ� ���ǿ� ���� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ���� ���纻�� ����� ���, ����, ����, ����, ����, ����, ������� �� �ֵ��� �㰡�մϴ�.  \r\n1) �����̳� �������� ��Ʈ ����Ʈ���� Ȥ�� ���� ��������� ��Ʈ ��ü�� �ǸŵǾ�� �ȵ˴ϴ�.\r\n2) �� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ��� ���۱� �ȳ��� �� ���̼����� ���� ������ �����ϴ� ��쿡�� �ٸ� ����Ʈ����� �Բ� ���̰ų� ����� Ȥ�� �ǸŰ� �����մϴ�. �̴� ���� �ؽ�Ʈ ���ϰ� �������� �ִ� ��� Ȥ�� ������ �����ϰ� ���� ������ �̻� �ؽ�Ʈ���� Ȥ�� �������� �� ��谡 ���� �� �ִ� ��Ÿ������ ���¸� ��� �ǹ� �մϴ�.  \r\n3) �� ��Ʈ ����Ʈ������ ��� �������� ������ ���۱��ڰ� ������ �㰡���� �ο����� �ʴ� �� ���۱��� �ִ� ��Ʈ���� ����ؼ��� �� �˴ϴ�. �� ���� ������ �����鿡�� ������ ���� ��Ʈ���� ���մϴ�.\r\n4) �� ��Ʈ ����Ʈ������ ���۱��� Ȥ�� ������ �̸��� �׵��� ������ ���� �㰡�� �ְų� �Ǵ� �׵��� ������ �����ϱ� ���� ��츦 �����ϰ��� �������� ���� ����� ����,��õ Ȥ�� �����ϱ� ���� �������� ����� �� �����ϴ�.  \r\n5) �� ��Ʈ ����Ʈ����� ��ü�� �κ�, Ȥ�� ���� ���ο� ������� �� ���̼��� �Ͽ� ������ �Ǿ�� �ϸ� ��Ÿ �ٸ� ���̼��� �Ͽ����� ������ �� �� �����ϴ�. ��Ʈ�� ���� �䱸������ �� ���̼��� �Ͽ����� ��ȿ�ϸ� �� ���̼��� �Ͽ� �ֱ� ���� ��Ʈ�� ���� �䱸������ �� ��Ʈ ����Ʈ��� ����� ������ ��� �������� ������� �ʽ��ϴ�.\r\n\r\nTERMINATION (����� ����)\r\n�� ���̼����� ��� ���� �� �Ϻζ� ���յ��� ������ ��ȿ�� �� �� �ֽ��ϴ�.\r\n\r\nDISCLAIMER (��å����)\r\n�� ��Ʈ ����Ʈ����� ���۱�, Ư���, ��ǥ�� �� ��Ÿ �Ǹ��� ��ħ�ؼ��� Ư�� �������� ���ռ� ������ ������, �������� ��� ������ ���� ���� ���ִ� �״�Ρ� �����˴ϴ�. ��� ��쿡�� ���۱��ڴ� �� ��Ʈ ����Ʈ������ ��� �Ǵ� ���� ���Ұ�, �׹ۿ� ��Ʈ ����Ʈ������ ��ް� �����Ͽ� �߻��ϴ� ��� ���, �ҹ����� Ȥ�� �ٸ� �Ϸ� �Ͽ��� �߻��ϴ� �Ϲ���, Ư����, ������, ������ Ȥ�� �ʿ��� ���ظ� �����ϴ� �Ҽ�, ����, Ȥ�� ��Ÿ å�ӿ� ���� �ǹ��� ������ �ʽ��ϴ�."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24decomilk.css",
+      "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts"
     },
     {
       "id": "cafe24decoschool",
@@ -458,19 +410,16 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24",
       "license": "SIL OFL 1.1",
       "weights": [
         300
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24decoschool.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "ī��24(��)�� �����ϴ� \"Cafe24 Decoschool\"�� SIL OPEN FONT LICENSE(Version 1.1)�� ���� ����� �㰡�˴ϴ�.\r\n\r\n\"Cafe24 Decoschool\"�� ���� ������ ī��24(��)�� �ֽ��ϴ�.  \r\n\"Cafe24 Decoschool\"�� ���� �� ��� ����ڸ� ������ ��� ����ڿ��� ����� �����Ǹ� �����Ӱ� �����ϰ� ������� �� �ֽ��ϴ�. \r\n��, �۲� ��ü�� ����� �Ǹ��ϴ� ���� �����ϸ� �� ���۱� �ȳ��� ���̼��� ������ �����ؼ� �ٸ� ����Ʈ����� �����ϰų� ����� �Ǵ� �ǸŰ� �����մϴ�.\r\n���̼��� ������ �����ϱ� ����� ���, ��ó ǥ�⸦ �����մϴ�.\r\n��) �� ���������� ī��24(��)�� ������ \"Cafe24 Decoschool\"�� ����Ǿ� �ֽ��ϴ�.\r\n\"Cafe24 Decoschool\"�� ���� �μ⹰, ������(�¶��� ����)�� �̹�����\"Cafe24Decoschool\"�� ���θ���� ���� Ȱ��� �� �ֽ��ϴ�.\r\n�̸� ��ġ �ʴ� ����ڴ� �������� ��翡 ��û�Ͻ� �� �ֽ��ϴ�.\r\n\r\n��Ȯ�� ��� ������ �Ʒ��� SIL OPEN FONT LICENSE ������ �����Ͻñ� �ٶ��ϴ�.\r\n\r\n=========================================================\r\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\r\n=========================================================\r\n\r\nPREAMBLE\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives. \r\n\r\nPERMISSION & CONDITIONS\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\r\n1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\r\n2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\r\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\r\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\r\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\r\n\r\nTERMINATION\r\nThis license becomes null and void if any of the above conditions are not met.\r\n\r\nDISCLAIMER\r\nTHE FONT SOFTWARE IS PROVIDED ��AS IS��, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.\r\n\r\n======================================================================\r\n\r\n* ������ SIL OPEN FONT LICENSE ������ �̿��ڵ��� ���ظ� ���� ���� ������ ���� ȿ���� ������ ���մϴ�. \r\n\r\nPREAMBLE (����)\r\n����Ʈ ����Ʈ����� �� ���̼����� �԰��� ���۱��ڰ� �����ϰ� ��Ȯ�ϰ� ���� ǥ�ð� �� ���ϵ��� ������ ���ϸ�, ���⿡�� �ҽ� ����, ���� ��ũ��Ʈ�� ������ �̿� ���Ե˴ϴ�. \r\n�����۱��� �ִ� ��Ʈ������ ���۱� ��å�� ���� ������ �̸��� ���մϴ�. \r\n���������� ���۱��ڰ� ������ ��Ʈ ����Ʈ���� ������Ҹ� �ǹ��մϴ�. \r\n������������ ������ �����̳� ��Ʈ ����Ʈ��� ���ο� ȯ�濡 ���ý���, ������ �Ϻ� Ȥ�� ��ü�� �߰�, ���� ��ü�� ���� �Ļ� ���۹��� �ǹ��մϴ�.\r\n�����ڡ��� ��Ʈ ����Ʈ��� �⿩�� �����̳�, �����Ͼ�, ���α׷���, ��� ������ ���� �ǹ��մϴ�.\r\n\r\nPERMISSION & CONDITIONS (�㰡 �� ����)\r\n�� ��Ʈ ����Ʈ��� ����ϵ��� �㰡 ���� ����/���/��ü ������ ���� ���õ� ���ǿ� ���� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ���� ���纻�� ����� ���, ����, ����, ����, ����, ����, ������� �� �ֵ��� �㰡�մϴ�.  \r\n1) �����̳� �������� ��Ʈ ����Ʈ���� Ȥ�� ���� ��������� ��Ʈ ��ü�� �ǸŵǾ�� �ȵ˴ϴ�.\r\n2) �� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ��� ���۱� �ȳ��� �� ���̼����� ���� ������ �����ϴ� ��쿡�� �ٸ� ����Ʈ����� �Բ� ���̰ų� ����� Ȥ�� �ǸŰ� �����մϴ�. �̴� ���� �ؽ�Ʈ ���ϰ� �������� �ִ� ��� Ȥ�� ������ �����ϰ� ���� ������ �̻� �ؽ�Ʈ���� Ȥ�� �������� �� ��谡 ���� �� �ִ� ��Ÿ������ ���¸� ��� �ǹ� �մϴ�.  \r\n3) �� ��Ʈ ����Ʈ������ ��� �������� ������ ���۱��ڰ� ������ �㰡���� �ο����� �ʴ� �� ���۱��� �ִ� ��Ʈ���� ����ؼ��� �� �˴ϴ�. �� ���� ������ �����鿡�� ������ ���� ��Ʈ���� ���մϴ�.\r\n4) �� ��Ʈ ����Ʈ������ ���۱��� Ȥ�� ������ �̸��� �׵��� ������ ���� �㰡�� �ְų� �Ǵ� �׵��� ������ �����ϱ� ���� ��츦 �����ϰ��� �������� ���� ����� ����,��õ Ȥ�� �����ϱ� ���� �������� ����� �� �����ϴ�.  \r\n5) �� ��Ʈ ����Ʈ����� ��ü�� �κ�, Ȥ�� ���� ���ο� ������� �� ���̼��� �Ͽ� ������ �Ǿ�� �ϸ� ��Ÿ �ٸ� ���̼��� �Ͽ����� ������ �� �� �����ϴ�. ��Ʈ�� ���� �䱸������ �� ���̼��� �Ͽ����� ��ȿ�ϸ� �� ���̼��� �Ͽ� �ֱ� ���� ��Ʈ�� ���� �䱸������ �� ��Ʈ ����Ʈ��� ����� ������ ��� �������� ������� �ʽ��ϴ�.\r\n\r\nTERMINATION (����� ����)\r\n�� ���̼����� ��� ���� �� �Ϻζ� ���յ��� ������ ��ȿ�� �� �� �ֽ��ϴ�.\r\n\r\nDISCLAIMER (��å����)\r\n�� ��Ʈ ����Ʈ����� ���۱�, Ư���, ��ǥ�� �� ��Ÿ �Ǹ��� ��ħ�ؼ��� Ư�� �������� ���ռ� ������ ������, �������� ��� ������ ���� ���� ���ִ� �״�Ρ� �����˴ϴ�. ��� ��쿡�� ���۱��ڴ� �� ��Ʈ ����Ʈ������ ��� �Ǵ� ���� ���Ұ�, �׹ۿ� ��Ʈ ����Ʈ������ ��ް� �����Ͽ� �߻��ϴ� ��� ���, �ҹ����� Ȥ�� �ٸ� �Ϸ� �Ͽ��� �߻��ϴ� �Ϲ���, Ư����, ������, ������ Ȥ�� �ʿ��� ���ظ� �����ϴ� �Ҽ�, ����, Ȥ�� ��Ÿ å�ӿ� ���� �ǹ��� ������ �ʽ��ϴ�."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24decoschool.css",
+      "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts"
     },
     {
       "id": "cafe24decoshadow",
@@ -479,19 +428,16 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24decoshadow.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "ī��24(��)�� �����ϴ� \"Cafe24 Decoshadow\"�� SIL OPEN FONT LICENSE(Version 1.1)�� ���� ����� �㰡�˴ϴ�.\r\n\r\n\"Cafe24 Decoshadow\"�� ���� ������ ī��24(��)�� �ֽ��ϴ�.  \r\n\"Cafe24 Decoshadow\"�� ���� �� ��� ����ڸ� ������ ��� ����ڿ��� ����� �����Ǹ� �����Ӱ� �����ϰ� ������� �� �ֽ��ϴ�. \r\n��, �۲� ��ü�� ����� �Ǹ��ϴ� ���� �����ϸ� �� ���۱� �ȳ��� ���̼��� ������ �����ؼ� �ٸ� ����Ʈ����� �����ϰų� ����� �Ǵ� �ǸŰ� �����մϴ�.\r\n���̼��� ������ �����ϱ� ����� ���, ��ó ǥ�⸦ �����մϴ�.\r\n��) �� ���������� ī��24(��)�� ������ \"Cafe24 Decoshadowk\"�� ����Ǿ� �ֽ��ϴ�.\r\n\"Cafe24 Decoshadow\"�� ���� �μ⹰, ������(�¶��� ����)�� �̹�����\"Cafe24 Decoshadow\"�� ���θ���� ���� Ȱ��� �� �ֽ��ϴ�.\r\n�̸� ��ġ �ʴ� ����ڴ� �������� ��翡 ��û�Ͻ� �� �ֽ��ϴ�.\r\n\r\n��Ȯ�� ��� ������ �Ʒ��� SIL OPEN FONT LICENSE ������ �����Ͻñ� �ٶ��ϴ�.\r\n\r\n=========================================================\r\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\r\n=========================================================\r\n\r\nPREAMBLE\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives. \r\n\r\nPERMISSION & CONDITIONS\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\r\n1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\r\n2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\r\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\r\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\r\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\r\n\r\nTERMINATION\r\nThis license becomes null and void if any of the above conditions are not met.\r\n\r\nDISCLAIMER\r\nTHE FONT SOFTWARE IS PROVIDED ��AS IS��, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.\r\n\r\n======================================================================\r\n\r\n* ������ SIL OPEN FONT LICENSE ������ �̿��ڵ��� ���ظ� ���� ���� ������ ���� ȿ���� ������ ���մϴ�. \r\n\r\nPREAMBLE (����)\r\n����Ʈ ����Ʈ����� �� ���̼����� �԰��� ���۱��ڰ� �����ϰ� ��Ȯ�ϰ� ���� ǥ�ð� �� ���ϵ��� ������ ���ϸ�, ���⿡�� �ҽ� ����, ���� ��ũ��Ʈ�� ������ �̿� ���Ե˴ϴ�. \r\n�����۱��� �ִ� ��Ʈ������ ���۱� ��å�� ���� ������ �̸��� ���մϴ�. \r\n���������� ���۱��ڰ� ������ ��Ʈ ����Ʈ���� ������Ҹ� �ǹ��մϴ�. \r\n������������ ������ �����̳� ��Ʈ ����Ʈ��� ���ο� ȯ�濡 ���ý���, ������ �Ϻ� Ȥ�� ��ü�� �߰�, ���� ��ü�� ���� �Ļ� ���۹��� �ǹ��մϴ�.\r\n�����ڡ��� ��Ʈ ����Ʈ��� �⿩�� �����̳�, �����Ͼ�, ���α׷���, ��� ������ ���� �ǹ��մϴ�.\r\n\r\nPERMISSION & CONDITIONS (�㰡 �� ����)\r\n�� ��Ʈ ����Ʈ��� ����ϵ��� �㰡 ���� ����/���/��ü ������ ���� ���õ� ���ǿ� ���� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ���� ���纻�� ����� ���, ����, ����, ����, ����, ����, ������� �� �ֵ��� �㰡�մϴ�.  \r\n1) �����̳� �������� ��Ʈ ����Ʈ���� Ȥ�� ���� ��������� ��Ʈ ��ü�� �ǸŵǾ�� �ȵ˴ϴ�.\r\n2) �� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ��� ���۱� �ȳ��� �� ���̼����� ���� ������ �����ϴ� ��쿡�� �ٸ� ����Ʈ����� �Բ� ���̰ų� ����� Ȥ�� �ǸŰ� �����մϴ�. �̴� ���� �ؽ�Ʈ ���ϰ� �������� �ִ� ��� Ȥ�� ������ �����ϰ� ���� ������ �̻� �ؽ�Ʈ���� Ȥ�� �������� �� ��谡 ���� �� �ִ� ��Ÿ������ ���¸� ��� �ǹ� �մϴ�.  \r\n3) �� ��Ʈ ����Ʈ������ ��� �������� ������ ���۱��ڰ� ������ �㰡���� �ο����� �ʴ� �� ���۱��� �ִ� ��Ʈ���� ����ؼ��� �� �˴ϴ�. �� ���� ������ �����鿡�� ������ ���� ��Ʈ���� ���մϴ�.\r\n4) �� ��Ʈ ����Ʈ������ ���۱��� Ȥ�� ������ �̸��� �׵��� ������ ���� �㰡�� �ְų� �Ǵ� �׵��� ������ �����ϱ� ���� ��츦 �����ϰ��� �������� ���� ����� ����,��õ Ȥ�� �����ϱ� ���� �������� ����� �� �����ϴ�.  \r\n5) �� ��Ʈ ����Ʈ����� ��ü�� �κ�, Ȥ�� ���� ���ο� ������� �� ���̼��� �Ͽ� ������ �Ǿ�� �ϸ� ��Ÿ �ٸ� ���̼��� �Ͽ����� ������ �� �� �����ϴ�. ��Ʈ�� ���� �䱸������ �� ���̼��� �Ͽ����� ��ȿ�ϸ� �� ���̼��� �Ͽ� �ֱ� ���� ��Ʈ�� ���� �䱸������ �� ��Ʈ ����Ʈ��� ����� ������ ��� �������� ������� �ʽ��ϴ�.\r\n\r\nTERMINATION (����� ����)\r\n�� ���̼����� ��� ���� �� �Ϻζ� ���յ��� ������ ��ȿ�� �� �� �ֽ��ϴ�.\r\n\r\nDISCLAIMER (��å����)\r\n�� ��Ʈ ����Ʈ����� ���۱�, Ư���, ��ǥ�� �� ��Ÿ �Ǹ��� ��ħ�ؼ��� Ư�� �������� ���ռ� ������ ������, �������� ��� ������ ���� ���� ���ִ� �״�Ρ� �����˴ϴ�. ��� ��쿡�� ���۱��ڴ� �� ��Ʈ ����Ʈ������ ��� �Ǵ� ���� ���Ұ�, �׹ۿ� ��Ʈ ����Ʈ������ ��ް� �����Ͽ� �߻��ϴ� ��� ���, �ҹ����� Ȥ�� �ٸ� �Ϸ� �Ͽ��� �߻��ϴ� �Ϲ���, Ư����, ������, ������ Ȥ�� �ʿ��� ���ظ� �����ϴ� �Ҽ�, ����, Ȥ�� ��Ÿ å�ӿ� ���� �ǹ��� ������ �ʽ��ϴ�."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24decoshadow.css",
+      "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts"
     },
     {
       "id": "cafe24decozoo",
@@ -500,28 +446,24 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24decozoo.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "ī��24(��)�� �����ϴ� \"Cafe24 Decozoo\"�� SIL OPEN FONT LICENSE(Version 1.1)�� ���� ����� �㰡�˴ϴ�.\r\n\r\n\"Cafe24 Decozoo\"�� ���� ������ ī��24(��)�� �ֽ��ϴ�.  \r\n\"Cafe24 Decozoo\"�� ���� �� ��� ����ڸ� ������ ��� ����ڿ��� ����� �����Ǹ� �����Ӱ� �����ϰ� ������� �� �ֽ��ϴ�. \r\n��, �۲� ��ü�� ����� �Ǹ��ϴ� ���� �����ϸ� �� ���۱� �ȳ��� ���̼��� ������ �����ؼ� �ٸ� ����Ʈ����� �����ϰų� ����� �Ǵ� �ǸŰ� �����մϴ�.\r\n���̼��� ������ �����ϱ� ����� ���, ��ó ǥ�⸦ �����մϴ�.\r\n��) �� ���������� ī��24(��)�� ������ \"Cafe24 Decozoo\"�� ����Ǿ� �ֽ��ϴ�.\r\n\"Cafe24 Decozoo\"�� ���� �μ⹰, ������(�¶��� ����)�� �̹�����\"Cafe24 Decozoo\"�� ���θ���� ���� Ȱ��� �� �ֽ��ϴ�.\r\n�̸� ��ġ �ʴ� ����ڴ� �������� ��翡 ��û�Ͻ� �� �ֽ��ϴ�.\r\n\r\n��Ȯ�� ��� ������ �Ʒ��� SIL OPEN FONT LICENSE ������ �����Ͻñ� �ٶ��ϴ�.\r\n\r\n=========================================================\r\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\r\n=========================================================\r\n\r\nPREAMBLE\r\nThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\r\nThe OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives. \r\n\r\nPERMISSION & CONDITIONS\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\r\n1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\r\n2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\r\n3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\r\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\r\n5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\r\n\r\nTERMINATION\r\nThis license becomes null and void if any of the above conditions are not met.\r\n\r\nDISCLAIMER\r\nTHE FONT SOFTWARE IS PROVIDED ��AS IS��, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.\r\n\r\n======================================================================\r\n\r\n* ������ SIL OPEN FONT LICENSE ������ �̿��ڵ��� ���ظ� ���� ���� ������ ���� ȿ���� ������ ���մϴ�. \r\n\r\nPREAMBLE (����)\r\n����Ʈ ����Ʈ����� �� ���̼����� �԰��� ���۱��ڰ� �����ϰ� ��Ȯ�ϰ� ���� ǥ�ð� �� ���ϵ��� ������ ���ϸ�, ���⿡�� �ҽ� ����, ���� ��ũ��Ʈ�� ������ �̿� ���Ե˴ϴ�. \r\n�����۱��� �ִ� ��Ʈ������ ���۱� ��å�� ���� ������ �̸��� ���մϴ�. \r\n���������� ���۱��ڰ� ������ ��Ʈ ����Ʈ���� ������Ҹ� �ǹ��մϴ�. \r\n������������ ������ �����̳� ��Ʈ ����Ʈ��� ���ο� ȯ�濡 ���ý���, ������ �Ϻ� Ȥ�� ��ü�� �߰�, ���� ��ü�� ���� �Ļ� ���۹��� �ǹ��մϴ�.\r\n�����ڡ��� ��Ʈ ����Ʈ��� �⿩�� �����̳�, �����Ͼ�, ���α׷���, ��� ������ ���� �ǹ��մϴ�.\r\n\r\nPERMISSION & CONDITIONS (�㰡 �� ����)\r\n�� ��Ʈ ����Ʈ��� ����ϵ��� �㰡 ���� ����/���/��ü ������ ���� ���õ� ���ǿ� ���� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ���� ���纻�� ����� ���, ����, ����, ����, ����, ����, ������� �� �ֵ��� �㰡�մϴ�.  \r\n1) �����̳� �������� ��Ʈ ����Ʈ���� Ȥ�� ���� ��������� ��Ʈ ��ü�� �ǸŵǾ�� �ȵ˴ϴ�.\r\n2) �� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ��� ���۱� �ȳ��� �� ���̼����� ���� ������ �����ϴ� ��쿡�� �ٸ� ����Ʈ����� �Բ� ���̰ų� ����� Ȥ�� �ǸŰ� �����մϴ�. �̴� ���� �ؽ�Ʈ ���ϰ� �������� �ִ� ��� Ȥ�� ������ �����ϰ� ���� ������ �̻� �ؽ�Ʈ���� Ȥ�� �������� �� ��谡 ���� �� �ִ� ��Ÿ������ ���¸� ��� �ǹ� �մϴ�.  \r\n3) �� ��Ʈ ����Ʈ������ ��� �������� ������ ���۱��ڰ� ������ �㰡���� �ο����� �ʴ� �� ���۱��� �ִ� ��Ʈ���� ����ؼ��� �� �˴ϴ�. �� ���� ������ �����鿡�� ������ ���� ��Ʈ���� ���մϴ�.\r\n4) �� ��Ʈ ����Ʈ������ ���۱��� Ȥ�� ������ �̸��� �׵��� ������ ���� �㰡�� �ְų� �Ǵ� �׵��� ������ �����ϱ� ���� ��츦 �����ϰ��� �������� ���� ����� ����,��õ Ȥ�� �����ϱ� ���� �������� ����� �� �����ϴ�.  \r\n5) �� ��Ʈ ����Ʈ����� ��ü�� �κ�, Ȥ�� ���� ���ο� ������� �� ���̼��� �Ͽ� ������ �Ǿ�� �ϸ� ��Ÿ �ٸ� ���̼��� �Ͽ����� ������ �� �� �����ϴ�. ��Ʈ�� ���� �䱸������ �� ���̼��� �Ͽ����� ��ȿ�ϸ� �� ���̼��� �Ͽ� �ֱ� ���� ��Ʈ�� ���� �䱸������ �� ��Ʈ ����Ʈ��� ����� ������ ��� �������� ������� �ʽ��ϴ�.\r\n\r\nTERMINATION (����� ����)\r\n�� ���̼����� ��� ���� �� �Ϻζ� ���յ��� ������ ��ȿ�� �� �� �ֽ��ϴ�.\r\n\r\nDISCLAIMER (��å����)\r\n�� ��Ʈ ����Ʈ����� ���۱�, Ư���, ��ǥ�� �� ��Ÿ �Ǹ��� ��ħ�ؼ��� Ư�� �������� ���ռ� ������ ������, �������� ��� ������ ���� ���� ���ִ� �״�Ρ� �����˴ϴ�. ��� ��쿡�� ���۱��ڴ� �� ��Ʈ ����Ʈ������ ��� �Ǵ� ���� ���Ұ�, �׹ۿ� ��Ʈ ����Ʈ������ ��ް� �����Ͽ� �߻��ϴ� ��� ���, �ҹ����� Ȥ�� �ٸ� �Ϸ� �Ͽ��� �߻��ϴ� �Ϲ���, Ư����, ������, ������ Ȥ�� �ʿ��� ���ظ� �����ϴ� �Ҽ�, ����, Ȥ�� ��Ÿ å�ӿ� ���� �ǹ��� ������ �ʽ��ϴ�."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24decozoo.css",
+      "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts"
     },
     {
       "id": "cafe24dongdong",
-      "name": "Cafe24 동동",
+      "name": "Cafe24 Dongdong",
       "family": "cafe24dongdong",
-      "category": "sans-serif",
+      "category": "handwriting",
       "version": "3.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         300,
@@ -532,9 +474,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24dongdong.css",
-      "homepage": "https://fonts.cafe24.com",
-      "description": "Copyright ⓒ Cafe24 Corp. All Rights Reserved. Cafe24 Dongdong is a trademark of Cafe24."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24dongdong.css",
+      "homepage": "https://fonts.cafe24.com"
     },
     {
       "id": "cafe24lovingu",
@@ -543,19 +484,15 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24lovingu.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "ī��24(��)�� �����ϴ� \"Cafe24 Lovingu\"�� SIL OPEN FONT LICENSE(Version 1.1)�� ���� ����� �㰡�˴ϴ�.\"Cafe24 Lovingu\"�� ���� ������ ī��24(��)�� �ֽ��ϴ�.\"Cafe24 Lovingu\"�� ���� �� ��� ����ڸ� ������ ��� ����ڿ��� ����� �����Ǹ� �����Ӱ� �����ϰ� ������� �� �ֽ��ϴ�.��, �۲� ��ü�� ����� �Ǹ��ϴ� ���� �����ϸ� �� ���۱� �ȳ��� ���̼��� ������ �����ؼ� �ٸ� ����Ʈ����� �����ϰų� ����� �Ǵ� �ǸŰ� �����մϴ�.���̼��� ������ �����ϱ� ����� ���, ��ó ǥ�⸦ �����մϴ�.��) �� ���������� ī��24(��)�� ������ \"Cafe24 Lovingu\"�� ����Ǿ� �ֽ��ϴ�.\"Cafe24 Lovingu\"�� ���� �μ⹰, ������(�¶��� ����)�� �̹�����\"Cafe24 Lovingu\"�� ���θ���� ���� Ȱ��� �� �ֽ��ϴ�.�̸� ��ġ �ʴ� ����ڴ� �������� ��翡 ��û�Ͻ� �� �ֽ��ϴ�.��Ȯ�� ��� ������ �Ʒ��� SIL OPEN FONT LICENSE ������ �����Ͻñ� �ٶ��ϴ�.=========================================================SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007=========================================================PREAMBLEThe goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.PERMISSION & CONDITIONSPermission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.TERMINATIONThis license becomes null and void if any of the above conditions are not met.DISCLAIMERTHE FONT SOFTWARE IS PROVIDED ��AS IS��, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.======================================================================* ������ SIL OPEN FONT LICENSE ������ �̿��ڵ��� ���ظ� ���� ���� ������ ���� ȿ���� ������ ���մϴ�.PREAMBLE (����)����Ʈ ����Ʈ����� �� ���̼����� �԰��� ���۱��ڰ� �����ϰ� ��Ȯ�ϰ� ���� ǥ�ð� �� ���ϵ��� ������ ���ϸ�, ���⿡�� �ҽ� ����, ���� ��ũ��Ʈ�� ������ �̿� ���Ե˴ϴ�.�����۱��� �ִ� ��Ʈ������ ���۱� ��å�� ���� ������ �̸��� ���մϴ�.���������� ���۱��ڰ� ������ ��Ʈ ����Ʈ���� ������Ҹ� �ǹ��մϴ�.������������ ������ �����̳� ��Ʈ ����Ʈ��� ���ο� ȯ�濡 ���ý���, ������ �Ϻ� Ȥ�� ��ü�� �߰�, ���� ��ü�� ���� �Ļ� ���۹��� �ǹ��մϴ�.�����ڡ��� ��Ʈ ����Ʈ��� �⿩�� �����̳�, �����Ͼ�, ���α׷���, ��� ������ ���� �ǹ��մϴ�.PERMISSION & CONDITIONS (�㰡 �� ����)�� ��Ʈ ����Ʈ��� ����ϵ��� �㰡 ���� ����/���/��ü ������ ���� ���õ� ���ǿ� ���� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ���� ���纻�� ����� ���, ����, ����, ����, ����, ����, ������� �� �ֵ��� �㰡�մϴ�.1) �����̳� �������� ��Ʈ ����Ʈ���� Ȥ�� ���� ��������� ��Ʈ ��ü�� �ǸŵǾ�� �ȵ˴ϴ�.2) �� ��Ʈ ����Ʈ������ ���� Ȥ�� �������� ��� ���۱� �ȳ��� �� ���̼����� ���� ������ �����ϴ� ��쿡�� �ٸ� ����Ʈ����� �Բ� ���̰ų� ����� Ȥ�� �ǸŰ� �����մϴ�. �̴� ���� �ؽ�Ʈ ���ϰ� �������� �ִ� ��� Ȥ�� ������ �����ϰ� ���� ������ �̻� �ؽ�Ʈ���� Ȥ�� �������� �� ��谡 ���� �� �ִ� ��Ÿ������ ���¸� ��� �ǹ� �մϴ�.3) �� ��Ʈ ����Ʈ������ ��� �������� ������ ���۱��ڰ� ������ �㰡���� �ο����� �ʴ� �� ���۱��� �ִ� ��Ʈ���� ����ؼ��� �� �˴ϴ�. �� ���� ������ �����鿡�� ������ ���� ��Ʈ���� ���մϴ�.4) �� ��Ʈ ����Ʈ������ ���۱��� Ȥ�� ������ �̸��� �׵��� ������ ���� �㰡�� �ְų� �Ǵ� �׵��� ������ �����ϱ� ���� ��츦 �����ϰ��� �������� ���� ����� ����,��õ Ȥ�� �����ϱ� ���� �������� ����� �� �����ϴ�.5) �� ��Ʈ ����Ʈ����� ��ü�� �κ�, Ȥ�� ���� ���ο� ������� �� ���̼��� �Ͽ� ������ �Ǿ�� �ϸ� ��Ÿ �ٸ� ���̼��� �Ͽ����� ������ �� �� �����ϴ�. ��Ʈ�� ���� �䱸������ �� ���̼��� �Ͽ����� ��ȿ�ϸ� �� ���̼��� �Ͽ� �ֱ� ���� ��Ʈ�� ���� �䱸������ �� ��Ʈ ����Ʈ��� ����� ������ ��� �������� ������� �ʽ��ϴ�.TERMINATION (����� ����)�� ���̼����� ��� ���� �� �Ϻζ� ���յ��� ������ ��ȿ�� �� �� �ֽ��ϴ�.DISCLAIMER (��å����)�� ��Ʈ ����Ʈ����� ���۱�, Ư���, ��ǥ�� �� ��Ÿ �Ǹ��� ��ħ�ؼ��� Ư�� �������� ���ռ� ������ ������, �������� ��� ������ ���� ���� ���ִ� �״�Ρ� �����˴ϴ�. ��� ��쿡�� ���۱��ڴ� �� ��Ʈ ����Ʈ������ ��� �Ǵ� ���� ���Ұ�, �׹ۿ� ��Ʈ ����Ʈ������ ��ް� �����Ͽ� �߻��ϴ� ��� ���, �ҹ����� Ȥ�� �ٸ� �Ϸ� �Ͽ��� �߻��ϴ� �Ϲ���, Ư����, ������, ������ Ȥ�� �ʿ��� ���ظ� �����ϴ� �Ҽ�, ����, Ȥ�� ��Ÿ å�ӿ� ���� �ǹ��� ������ �ʽ��ϴ�."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24lovingu.css"
     },
     {
       "id": "cafe24meongi-b-v1-0",
@@ -564,19 +501,16 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24meongi-b-v1.0.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "24(V)\f f���\"Cafe24 Meongi B\"��SIL OPEN FONT LICENSE(Version 1.1)�� � �\f ���\"Cafe24 Meongi B\"\u0007 v; '�: 24(V)�� \u00164\"Cafe24 Meongi B\": �\u000e � �\u001a�  � �\u001a����� f����"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24meongi-b-v1.0.css",
+      "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts"
     },
     {
       "id": "cafe24meongi-w-v1-0",
@@ -585,28 +519,24 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24meongi-w-v1.0.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "24(V)\f f���\"Cafe24 Meongi W\"��SIL OPEN FONT LICENSE(Version 1.1)�� � �\f ���\"Cafe24 Meongi W\"\u0007 v; '�: 24(V)�� \u00164\"Cafe24 Meongi W\": �\u000e � �\u001a�  � �\u001a����� f����"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24meongi-w-v1.0.css",
+      "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts"
     },
     {
       "id": "cafe24moyamoya-face-v1-0",
-      "name": "카페24 모야모야",
+      "name": "Cafe24 Moyamoya Face",
       "family": "cafe24moyamoya-face-v1.0",
-      "category": "sans-serif",
+      "category": "display",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -616,18 +546,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24moyamoya-face-v1.0.css",
-      "homepage": "https://fonts.cafe24.com",
-      "description": "Copyright ⓒ Cafe24 Corp. All Rights Reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24moyamoya-face-v1.0.css",
+      "homepage": "https://fonts.cafe24.com"
     },
     {
       "id": "cafe24moyamoya-regular-v1-0",
-      "name": "카페24 모야모야",
+      "name": "Cafe24 Moyamoya",
       "family": "cafe24moyamoya-regular-v1.0",
-      "category": "sans-serif",
+      "category": "display",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -637,9 +565,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24moyamoya-regular-v1.0.css",
-      "homepage": "https://fonts.cafe24.com",
-      "description": "Copyright ⓒ Cafe24 Corp. All Rights Reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24moyamoya-regular-v1.0.css",
+      "homepage": "https://fonts.cafe24.com"
     },
     {
       "id": "cafe24nyangi-b-v1-0",
@@ -648,19 +575,16 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24nyangi-b-v1.0.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "24(V)\f f���\"Cafe24 Nyangi B\"��SIL OPEN FONT LICENSE(Version 1.1)�� � �\f ���\"Cafe24 Nyangi B\"\u0007 v; '�: 24(V)�� \u00164\"Cafe24 Nyangi B\": �\u000e � �\u001a�  � �\u001a����� f����"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24nyangi-b-v1.0.css",
+      "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts"
     },
     {
       "id": "cafe24nyangi-w-v1-0",
@@ -669,28 +593,24 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24nyangi-w-v1.0.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "24(V)\f f���\"Cafe24 Nyangi W\"��SIL OPEN FONT LICENSE(Version 1.1)�� � �\f ���\"Cafe24 Nyangi W\"\u0007 v; '�: 24(V)�� \u00164\"Cafe24 Nyangi W\": �\u000e � �\u001a�  � �\u001a����� f����"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24nyangi-w-v1.0.css",
+      "homepage": "https://echosting.cafe24.com/Campaign/?url=Cafe24freefonts"
     },
     {
       "id": "cafe24ohsquare-v2-0",
-      "name": "카페24 아네모네",
+      "name": "Cafe24 Ohsquare",
       "family": "cafe24ohsquare-v2.0",
       "category": "sans-serif",
       "version": "2.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -700,18 +620,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24ohsquare-v2.0.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "Copyright (c) 2020by Cafe24. All rights reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24ohsquare-v2.0.css",
+      "homepage": "https://fonts.cafe24.com"
     },
     {
       "id": "cafe24ohsquareair-v2-0",
-      "name": "카페24 아네모네에어",
+      "name": "Cafe24 Ohsquare air Light",
       "family": "cafe24ohsquareair-v2.0",
       "category": "sans-serif",
       "version": "2.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -721,18 +639,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24ohsquareair-v2.0.css",
-      "homepage": "https://cafe24corp.com",
-      "description": "Copyright (c) Cafe24 Corp. All Rights Reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24ohsquareair-v2.0.css",
+      "homepage": "https://cafe24corp.com"
     },
     {
       "id": "cafe24oneprettynight-v2-0",
-      "name": "카페24 고운밤",
+      "name": "Cafe24 OnePrettyNight",
       "family": "cafe24oneprettynight-v2.0",
-      "category": "sans-serif",
+      "category": "handwriting",
       "version": "2.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -742,18 +658,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24oneprettynight-v2.0.css",
-      "homepage": "https://cafe24corp.com",
-      "description": "Copyright (c) 2020 by Cafe24. All rights reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24oneprettynight-v2.0.css",
+      "homepage": "https://cafe24corp.com"
     },
     {
       "id": "cafe24proslimair",
-      "name": "카페24 프로슬림",
+      "name": "Cafe24 PRO Slim Air",
       "family": "cafe24proslimair",
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -763,18 +677,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24proslimair.css",
-      "homepage": "https://cafe24corp.com",
-      "description": "Copyright ⓒ Cafe24 Corp. All Rights Reserved. Cafe24 PRO Slim is a trademark of Cafe24."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24proslimair.css",
+      "homepage": "https://cafe24corp.com"
     },
     {
       "id": "cafe24proslimfit",
-      "name": "카페24 프로슬림",
+      "name": "Cafe24 PRO Slim Fit",
       "family": "cafe24proslimfit",
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -784,18 +696,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24proslimfit.css",
-      "homepage": "https://cafe24corp.com",
-      "description": "Copyright ⓒ Cafe24 Corp. All Rights Reserved. Cafe24 PRO Slim is a trademark of Cafe24."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24proslimfit.css",
+      "homepage": "https://cafe24corp.com"
     },
     {
       "id": "cafe24proslimmax",
-      "name": "카페24 프로슬림",
+      "name": "Cafe24 PRO Slim Max",
       "family": "cafe24proslimmax",
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -805,9 +715,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24proslimmax.css",
-      "homepage": "https://cafe24corp.com",
-      "description": "Copyright ⓒ Cafe24 Corp. All Rights Reserved. Cafe24 PRO Slim is a trademark of Cafe24."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24proslimmax.css",
+      "homepage": "https://cafe24corp.com"
     },
     {
       "id": "cafe24proup",
@@ -816,7 +725,6 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -826,18 +734,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24proup.css",
-      "homepage": "https://cafe24corp.com",
-      "description": "Copyright ⓒ Cafe24 Corp. All Rights Reserved. Cafe24 Cafe24 PRO UP is a trademark of Cafe24."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24proup.css",
+      "homepage": "https://cafe24corp.com"
     },
     {
       "id": "cafe24shiningstar-v2-0",
-      "name": "카페24 빛나는별",
+      "name": "Cafe24 Shiningstar",
       "family": "cafe24shiningstar-v2.0",
-      "category": "sans-serif",
+      "category": "handwriting",
       "version": "2.000",
       "type": "self-hosted",
-      "author": "Cafe24 \u0010Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -847,18 +753,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24shiningstar-v2.0.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "Copyright (c) 2019 by Cafe24. All rights reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24shiningstar-v2.0.css",
+      "homepage": "https://fonts.cafe24.com"
     },
     {
       "id": "cafe24simplehae-v2-0",
-      "name": "카페24 심플해",
+      "name": "Cafe24 Simplehae",
       "family": "cafe24simplehae-v2.0",
       "category": "sans-serif",
       "version": "2.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -868,18 +772,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24simplehae-v2.0.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "Copyright (c) Cafe24 Corp. All Rights Reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24simplehae-v2.0.css",
+      "homepage": "https://www.cafe24corp.com"
     },
     {
       "id": "cafe24ssukssuk",
-      "name": "카페24 쑥쑥",
+      "name": "Cafe24 Ssukssuk",
       "family": "cafe24ssukssuk",
-      "category": "sans-serif",
+      "category": "handwriting",
       "version": "3.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         300,
@@ -890,18 +792,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24ssukssuk.css",
-      "homepage": "https://fonts.cafe24.com",
-      "description": "Copyright © Cafe24 Corp. All rights Reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24ssukssuk.css",
+      "homepage": "https://fonts.cafe24.com"
     },
     {
       "id": "cafe24ssurround-v2-0",
-      "name": "카페24 써라운드",
+      "name": "Cafe24 Ssurround Bold",
       "family": "cafe24ssurround-v2.0",
       "category": "sans-serif",
       "version": "1.001",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -911,18 +811,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24ssurround-v2.0.css",
-      "homepage": "https://cafe24corp.com",
-      "description": "Copyright © Cafe24 Corp. All Rights Reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24ssurround-v2.0.css",
+      "homepage": "https://cafe24corp.com"
     },
     {
       "id": "cafe24ssurroundair-v1-1",
-      "name": "카페24 써라운드 에어",
+      "name": "Cafe24 Ssurround air Light",
       "family": "cafe24ssurroundair-v1.1",
       "category": "sans-serif",
       "version": "1.002",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -932,18 +830,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24ssurroundair-v1.1.css",
-      "homepage": "https://fonts.cafe24.com",
-      "description": "Copyright ⓒ Cafe24 Corp. All Rights Reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24ssurroundair-v1.1.css",
+      "homepage": "https://fonts.cafe24.com"
     },
     {
       "id": "cafe24supermagic-bold-v1-0",
-      "name": "카페24 슈퍼매직",
+      "name": "카페24 슈퍼매직 Bold",
       "family": "cafe24supermagic-bold-v1.0",
-      "category": "sans-serif",
+      "category": "handwriting",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         700
@@ -953,18 +849,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24supermagic-bold-v1.0.css",
-      "homepage": "https://fonts.cafe24.com",
-      "description": "Copyright ⓒ Cafe24 Corp. All Rights Reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24supermagic-bold-v1.0.css",
+      "homepage": "https://fonts.cafe24.com"
     },
     {
       "id": "cafe24supermagic-regular-v1-0",
       "name": "카페24 슈퍼매직",
       "family": "cafe24supermagic-regular-v1.0",
-      "category": "sans-serif",
+      "category": "handwriting",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -974,18 +868,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24supermagic-regular-v1.0.css",
-      "homepage": "https://fonts.cafe24.com",
-      "description": "Copyright ⓒ Cafe24 Corp. All Rights Reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24supermagic-regular-v1.0.css",
+      "homepage": "https://fonts.cafe24.com"
     },
     {
       "id": "cafe24syongsyong-v2-0",
-      "name": "카페24 숑숑",
+      "name": "Cafe24 Syongsyong",
       "family": "cafe24syongsyong-v2.0",
-      "category": "sans-serif",
+      "category": "handwriting",
       "version": "2.000",
       "type": "self-hosted",
-      "author": "Cafe24 Corp.",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -995,18 +887,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cafe24/cafe24syongsyong-v2.0.css",
-      "homepage": "https://www.cafe24corp.com",
-      "description": "Copyright © Cafe24 Corp. All rights Reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cafe24/cafe24syongsyong-v2.0.css",
+      "homepage": "https://www.cafe24corp.com"
     },
     {
       "id": "cmcorkr",
-      "name": "CATHOLIC MEDICAL CENTER",
+      "name": "가톨릭중앙의료원",
       "family": "cmcorkr",
       "category": "sans-serif",
       "version": "001.000",
       "type": "self-hosted",
-      "author": "EUX",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -1016,17 +906,15 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/cmcorkr/cmcorkr.css",
-      "description": "Copyright (c) 2021, 가톨릭중앙의료원"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/cmcorkr/cmcorkr.css"
     },
     {
       "id": "ebshunminsaeronl",
       "name": "EBS 훈민정음 새론 L",
       "family": "ebshunminsaeronl",
-      "category": "sans-serif",
+      "category": "serif",
       "version": "1.0",
       "type": "self-hosted",
-      "author": "Copyright",
       "license": "SIL OFL 1.1",
       "weights": [
         800
@@ -1036,17 +924,15 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/ebs/ebshunminsaeronl.css",
-      "description": "Copyright"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebshunminsaeronl.css"
     },
     {
       "id": "ebshunminsaeronr",
       "name": "EBS 훈민정음 새론 R",
       "family": "ebshunminsaeronr",
-      "category": "sans-serif",
+      "category": "serif",
       "version": "1.0",
       "type": "self-hosted",
-      "author": "Copyright",
       "license": "SIL OFL 1.1",
       "weights": [
         800
@@ -1056,17 +942,15 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/ebs/ebshunminsaeronr.css",
-      "description": "Copyright"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebshunminsaeronr.css"
     },
     {
       "id": "ebshunminsaeronsb",
       "name": "EBS 훈민정음 새론 SB",
       "family": "ebshunminsaeronsb",
-      "category": "sans-serif",
+      "category": "serif",
       "version": "1.0",
       "type": "self-hosted",
-      "author": "Copyright",
       "license": "SIL OFL 1.1",
       "weights": [
         800
@@ -1076,17 +960,15 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/ebs/ebshunminsaeronsb.css",
-      "description": "Copyright"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebshunminsaeronsb.css"
     },
     {
       "id": "ebsjusigyeongb",
-      "name": "EBS주시경",
+      "name": "EBS주시경 Bold",
       "family": "ebsjusigyeongb",
-      "category": "sans-serif",
+      "category": "serif",
       "version": "1.0",
       "type": "self-hosted",
-      "author": "Copyright",
       "license": "SIL OFL 1.1",
       "weights": [
         800
@@ -1096,17 +978,15 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/ebs/ebsjusigyeongb.css",
-      "description": "Copyright"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebsjusigyeongb.css"
     },
     {
       "id": "ebsjusigyeongl",
-      "name": "EBS주시경",
+      "name": "EBS주시경 Light",
       "family": "ebsjusigyeongl",
-      "category": "sans-serif",
+      "category": "serif",
       "version": "1.1",
       "type": "self-hosted",
-      "author": "Copyright",
       "license": "SIL OFL 1.1",
       "weights": [
         800
@@ -1116,17 +996,15 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/ebs/ebsjusigyeongl.css",
-      "description": "Copyright"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebsjusigyeongl.css"
     },
     {
       "id": "ebsjusigyeongm",
-      "name": "EBS주시경",
+      "name": "EBS주시경 Medium",
       "family": "ebsjusigyeongm",
-      "category": "sans-serif",
+      "category": "serif",
       "version": "1.0",
       "type": "self-hosted",
-      "author": "Copyright",
       "license": "SIL OFL 1.1",
       "weights": [
         800
@@ -1136,17 +1014,15 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/ebs/ebsjusigyeongm.css",
-      "description": "Copyright"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebsjusigyeongm.css"
     },
     {
       "id": "ebsl",
       "name": "EBS훈민정음 L",
       "family": "ebsl",
-      "category": "sans-serif",
+      "category": "serif",
       "version": "1.00",
       "type": "self-hosted",
-      "author": "김진덕",
       "license": "SIL OFL 1.1",
       "weights": [
         800
@@ -1156,17 +1032,15 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/ebs/ebsl.css",
-      "description": "Designed by 김진덕."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebsl.css"
     },
     {
       "id": "ebsr",
       "name": "EBS훈민정음 R",
       "family": "ebsr",
-      "category": "sans-serif",
+      "category": "serif",
       "version": "1.00",
       "type": "self-hosted",
-      "author": "김진덕",
       "license": "SIL OFL 1.1",
       "weights": [
         800
@@ -1176,17 +1050,15 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/ebs/ebsr.css",
-      "description": "Designed by 김진덕."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebsr.css"
     },
     {
       "id": "ebssb",
       "name": "EBS훈민정음 SB",
       "family": "ebssb",
-      "category": "sans-serif",
+      "category": "serif",
       "version": "1.00",
       "type": "self-hosted",
-      "author": "김진덕",
       "license": "SIL OFL 1.1",
       "weights": [
         800
@@ -1196,17 +1068,15 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/ebs/ebssb.css",
-      "description": "Designed by 김진덕."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/ebs/ebssb.css"
     },
     {
       "id": "establish-retrosans",
-      "name": "스스로넷 설립체",
+      "name": "스스로넷 설립체 OTF",
       "family": "establish-retrosans",
       "category": "sans-serif",
-      "version": "1.0.0",
+      "version": "1.0",
       "type": "self-hosted",
-      "author": "SEOUL YOUTH MEDIA CENTER SSRO.NET",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -1216,18 +1086,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/establish-retrosans/establish-retrosans.css",
-      "homepage": "https://www.ssro.net",
-      "description": "SEOUL YOUTH MEDIA CENTER SSRO.NET"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/establish-retrosans/establish-retrosans.css",
+      "homepage": "https://www.ssro.net/"
     },
     {
       "id": "freesentation",
-      "name": "프리젠테이션",
+      "name": "프리젠테이션 4 Regular",
       "family": "freesentation",
       "category": "sans-serif",
       "version": "2.001",
       "type": "self-hosted",
-      "author": "피티앤",
       "license": "SIL OFL 1.1",
       "weights": [
         100,
@@ -1245,18 +1113,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/freesentation/freesentation.css",
-      "homepage": "https://www.designptn.com",
-      "description": "이 글꼴은 SIL Open Font License 1.1로 배포하고 있습니다. 라이선스에 대한 자세한 내용은 이곳에서 확인할 수 있습니다(영문): https://scripts.sil.org/OFL"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/freesentation/freesentation.css",
+      "homepage": "http://scripts.sil.org/OFL"
     },
     {
       "id": "gabia-bombaram",
-      "name": "BomBaram",
+      "name": "BomBaramOTF",
       "family": "gabia_bombaram",
-      "category": "sans-serif",
+      "category": "serif",
       "version": "1.00",
       "type": "self-hosted",
-      "author": "Gabia",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -1266,9 +1132,7 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gabia/gabia_bombaram.css",
-      "homepage": "https://www.gabia.com",
-      "description": "Copyright 2015 Gabia. All rights reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabia_bombaram.css"
     },
     {
       "id": "gabia-napjakblock",
@@ -1277,28 +1141,23 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Gabia",
       "license": "SIL OFL 1.1",
       "weights": [
         400
       ],
       "subsets": [
-        "korean",
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gabia/gabia_napjakblock.css",
-      "homepage": "https://www.gabia.com",
-      "description": "Copyright 2015 Gabia. All rights reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabia_napjakblock.css"
     },
     {
       "id": "gabia-solmee",
       "name": "가비아 솔미체",
       "family": "gabia_solmee",
-      "category": "sans-serif",
+      "category": "serif",
       "version": "1.00",
       "type": "self-hosted",
-      "author": "Gabia",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -1308,8 +1167,7 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gabia/gabia_solmee.css",
-      "description": "Copyright ⓒ 2015 Gabia All Rights Reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabia_solmee.css"
     },
     {
       "id": "gabiacheongyeon",
@@ -1318,7 +1176,6 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Gabia",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -1328,9 +1185,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gabia/gabiacheongyeon.css",
-      "homepage": "https://freehome.gabia.com",
-      "description": "Gabia Inc."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiacheongyeon.css",
+      "homepage": "https://freehome.gabia.com"
     },
     {
       "id": "gabiadunn",
@@ -1339,7 +1195,6 @@
       "category": "sans-serif",
       "version": "001.000",
       "type": "self-hosted",
-      "author": "Cho Youngjae",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -1349,9 +1204,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gabia/gabiadunn.css",
-      "homepage": "https://font.gabia.com",
-      "description": "Gabia Inc."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiadunn.css",
+      "homepage": "https://font.gabia.com/"
     },
     {
       "id": "gabiagosran",
@@ -1360,7 +1214,6 @@
       "category": "sans-serif",
       "version": "001.000",
       "type": "self-hosted",
-      "author": "Kwon Soonhyung",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -1370,9 +1223,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gabia/gabiagosran.css",
-      "homepage": "http://font.gabia.com",
-      "description": "Gabia Inc."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiagosran.css",
+      "homepage": "http://font.gabia.com/"
     },
     {
       "id": "gabiaheuldot",
@@ -1381,7 +1233,6 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Jung Younghun",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -1391,9 +1242,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gabia/gabiaheuldot.css",
-      "homepage": "https://font.gabia.com",
-      "description": "Gabia Inc."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiaheuldot.css",
+      "homepage": "https://font.gabia.com/"
     },
     {
       "id": "gabiamaeumgyeol",
@@ -1402,7 +1252,6 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Gabia",
       "license": "SIL OFL 1.1",
       "weights": [
         300
@@ -1412,9 +1261,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gabia/gabiamaeumgyeol.css",
-      "homepage": "https://freehome.gabia.com",
-      "description": "Gabia Inc."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiamaeumgyeol.css",
+      "homepage": "https://freehome.gabia.com"
     },
     {
       "id": "gabianull",
@@ -1423,7 +1271,6 @@
       "category": "sans-serif",
       "version": "001.004",
       "type": "self-hosted",
-      "author": "Choi Jiho",
       "license": "SIL OFL 1.1",
       "weights": [
         300
@@ -1433,9 +1280,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gabia/gabianull.css",
-      "homepage": "https://font.gabia.com",
-      "description": "Gabia Inc."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabianull.css",
+      "homepage": "https://font.gabia.com/"
     },
     {
       "id": "gabiaondam",
@@ -1444,7 +1290,6 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "Kim Rockhyun",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -1454,9 +1299,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gabia/gabiaondam.css",
-      "homepage": "https://freehome.gabia.com",
-      "description": "Gabia Inc."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiaondam.css",
+      "homepage": "https://freehome.gabia.com"
     },
     {
       "id": "gabiasai",
@@ -1465,7 +1309,6 @@
       "category": "sans-serif",
       "version": "001.000",
       "type": "self-hosted",
-      "author": "Sun Yeonwoo",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -1475,18 +1318,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gabia/gabiasai.css",
-      "homepage": "https://font.gabia.com",
-      "description": "Gabia Inc."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gabia/gabiasai.css",
+      "homepage": "https://font.gabia.com/"
     },
     {
       "id": "gamtanroad-b",
-      "name": "감탄로드바탕체",
+      "name": "감탄로드바탕체 Regular",
       "family": "gamtanroad-b",
-      "category": "sans-serif",
+      "category": "serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "TOGETHERGROUP",
       "license": "SIL OFL 1.1",
       "weights": [
         100,
@@ -1498,18 +1339,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gamtanroad/gamtanroad-b.css",
-      "homepage": "https://itsfont.com",
-      "description": "Gangwon State"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gamtanroad/gamtanroad-b.css",
+      "homepage": "https://itsfont.com/"
     },
     {
       "id": "gamtanroad-d",
-      "name": "감탄로드돋움체",
+      "name": "감탄로드돋움체 Regular",
       "family": "gamtanroad-d",
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "TOGETHERGROUP",
       "license": "SIL OFL 1.1",
       "weights": [
         100,
@@ -1521,9 +1360,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gamtanroad/gamtanroad-d.css",
-      "homepage": "https://itsfont.com",
-      "description": "Gangwon State"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gamtanroad/gamtanroad-d.css",
+      "homepage": "https://itsfont.com/"
     },
     {
       "id": "gamtanroad-g",
@@ -1532,7 +1370,6 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "TOGETHERGROUP",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -1542,9 +1379,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gamtanroad/gamtanroad-g.css",
-      "homepage": "https://itsfont.com",
-      "description": "Gangwon State"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gamtanroad/gamtanroad-g.css",
+      "homepage": "https://itsfont.com/"
     },
     {
       "id": "gamtanroad-t",
@@ -1553,7 +1389,6 @@
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "TOGETHERGROUP",
       "license": "SIL OFL 1.1",
       "weights": [
         400
@@ -1563,18 +1398,16 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gamtanroad/gamtanroad-t.css",
-      "homepage": "https://itsfont.com",
-      "description": "Gangwon State"
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gamtanroad/gamtanroad-t.css",
+      "homepage": "https://itsfont.com/"
     },
     {
       "id": "gangwonstate",
-      "name": "강원특별자치도체",
+      "name": "강원특별자치도체OTF SemiBold",
       "family": "gangwonstate",
       "category": "sans-serif",
       "version": "1.000",
       "type": "self-hosted",
-      "author": "강원특별자치도",
       "license": "SIL OFL 1.1",
       "weights": [
         600
@@ -1584,9 +1417,8 @@
         "latin"
       ],
       "isVariable": false,
-      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261010-2/fonts/gangwonstate/gangwonstate.css",
-      "homepage": "https://state.gwd.go.kr",
-      "description": "� 2023 GANGWON STATE. All rights reserved."
+      "cssUrl": "https://cdn.jsdelivr.net/gh/monodle/fontfinder-fonts1@20261011/fonts/gangwonstate/gangwonstate.css",
+      "homepage": "https://state.gwd.go.kr"
     }
   ]
 }
